@@ -1,1119 +1,1120 @@
 #EXTM3U
-#EXTINF:-1 group-title="北京,#genre#" ,北京新闻广播
+#EXTINF:-1 group-title="北京",北京新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/1994/64.m3u8
-#EXTINF:-1 group-title="北京,#genre#" ,北京交通广播
+#EXTINF:-1 group-title="北京",北京交通广播
 https://live.ximalaya.com/radio-first-page-app/live/93/64.m3u8
-#EXTINF:-1 group-title="北京,#genre#" ,北京文艺广播
+#EXTINF:-1 group-title="北京",北京文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/94/64.m3u8
-#EXTINF:-1 group-title="北京,#genre#" ,北京音乐广播
+#EXTINF:-1 group-title="北京",北京音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/95/64.m3u8
-#EXTINF:-1 group-title="北京,#genre#" ,959年代音乐怀旧好声音
+#EXTINF:-1 group-title="北京",959年代音乐怀旧好声音
 https://live.ximalaya.com/radio-first-page-app/live/964/64.m3u8
-#EXTINF:-1 group-title="北京,#genre#" ,经典调频北京FM969
+#EXTINF:-1 group-title="北京",经典调频北京FM969
 https://live.ximalaya.com/radio-first-page-app/live/963/64.m3u8
-#EXTINF:-1 group-title="北京,#genre#" ,北京城市广播副中心之声
+#EXTINF:-1 group-title="北京",北京城市广播副中心之声
 https://live.ximalaya.com/radio-first-page-app/live/97/64.m3u8
-#EXTINF:-1 group-title="北京,#genre#" ,京津冀之声
+#EXTINF:-1 group-title="北京",京津冀之声
 https://live.ximalaya.com/radio-first-page-app/live/91/64.m3u8
-#EXTINF:-1 group-title="北京,#genre#" ,大兴人民广播电台
+#EXTINF:-1 group-title="北京",大兴人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2632/64.m3u8
-#EXTINF:-1 group-title="北京,#genre#" ,1079自在音乐
+#EXTINF:-1 group-title="北京",1079自在音乐
 https://live.ximalaya.com/radio-first-page-app/live/2629/64.m3u8
-#EXTINF:-1 group-title="北京,#genre#" ,流行音乐广播999正青春
+#EXTINF:-1 group-title="北京",流行音乐广播999正青春
 https://live.ximalaya.com/radio-first-page-app/live/2628/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,河北音乐广播
+#EXTINF:-1 group-title="河北",河北音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/494/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,石家庄新闻广播
+#EXTINF:-1 group-title="河北",石家庄新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/502/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,河北交通广播
+#EXTINF:-1 group-title="河北",河北交通广播
 https://live.ximalaya.com/radio-first-page-app/live/498/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,石家庄交通广播
+#EXTINF:-1 group-title="河北",石家庄交通广播
 https://live.ximalaya.com/radio-first-page-app/live/505/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,邯郸新闻综合广播
+#EXTINF:-1 group-title="河北",邯郸新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/514/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,保定1058飞扬调频
+#EXTINF:-1 group-title="河北",保定1058飞扬调频
 https://live.ximalaya.com/radio-first-page-app/live/521/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,秦皇岛新闻综合广播
+#EXTINF:-1 group-title="河北",秦皇岛新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1114/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,石家庄音乐广播
+#EXTINF:-1 group-title="河北",石家庄音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/504/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,保定新闻广播
+#EXTINF:-1 group-title="河北",保定新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/516/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,秦皇岛交通广播
+#EXTINF:-1 group-title="河北",秦皇岛交通广播
 https://live.ximalaya.com/radio-first-page-app/live/523/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,保定经典964
+#EXTINF:-1 group-title="河北",保定经典964
 https://live.ximalaya.com/radio-first-page-app/live/2265/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,年代965
+#EXTINF:-1 group-title="河北",年代965
 https://live.ximalaya.com/radio-first-page-app/live/2878/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,沧州1058汽车音乐广播
+#EXTINF:-1 group-title="河北",沧州1058汽车音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2050/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,邯郸交通广播
+#EXTINF:-1 group-title="河北",邯郸交通广播
 https://live.ximalaya.com/radio-first-page-app/live/515/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,衡水交通广播
+#EXTINF:-1 group-title="河北",衡水交通广播
 https://live.ximalaya.com/radio-first-page-app/live/1116/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,承德交通文艺广播
+#EXTINF:-1 group-title="河北",承德交通文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/2709/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,秦皇岛1038私家车广播
+#EXTINF:-1 group-title="河北",秦皇岛1038私家车广播
 https://live.ximalaya.com/radio-first-page-app/live/1122/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,鹿泉综合广播
+#EXTINF:-1 group-title="河北",鹿泉综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2572/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,秦皇岛体育音乐广播
+#EXTINF:-1 group-title="河北",秦皇岛体育音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/522/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,保定交通广播
+#EXTINF:-1 group-title="河北",保定交通广播
 https://live.ximalaya.com/radio-first-page-app/live/517/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,邯郸音乐广播
+#EXTINF:-1 group-title="河北",邯郸音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/1125/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,衡水之声
+#EXTINF:-1 group-title="河北",衡水之声
 https://live.ximalaya.com/radio-first-page-app/live/2763/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,保定城市服务广播
+#EXTINF:-1 group-title="河北",保定城市服务广播
 https://live.ximalaya.com/radio-first-page-app/live/520/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,宁晋人民广播电台
+#EXTINF:-1 group-title="河北",宁晋人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2665/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,邯郸都市生活
+#EXTINF:-1 group-title="河北",邯郸都市生活
 https://live.ximalaya.com/radio-first-page-app/live/1127/64.m3u8
-#EXTINF:-1 group-title="河北,#genre#" ,保定经济广播
+#EXTINF:-1 group-title="河北",保定经济广播
 https://live.ximalaya.com/radio-first-page-app/live/518/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,山西交通广播
+#EXTINF:-1 group-title="山西",山西交通广播
 https://live.ximalaya.com/radio-first-page-app/live/885/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,山西音乐广播
+#EXTINF:-1 group-title="山西",山西音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/886/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,山西综合广播FM904
+#EXTINF:-1 group-title="山西",山西综合广播FM904
 https://live.ximalaya.com/radio-first-page-app/live/893/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,山西文艺广播
+#EXTINF:-1 group-title="山西",山西文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/887/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,山西健康之声
+#EXTINF:-1 group-title="山西",山西健康之声
 https://live.ximalaya.com/radio-first-page-app/live/2736/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,太原新闻综合广播
+#EXTINF:-1 group-title="山西",太原新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/888/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,太原交通广播
+#EXTINF:-1 group-title="山西",太原交通广播
 https://live.ximalaya.com/radio-first-page-app/live/883/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,山西故事广播
+#EXTINF:-1 group-title="山西",山西故事广播
 https://live.ximalaya.com/radio-first-page-app/live/1669/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,山西经济广播
+#EXTINF:-1 group-title="山西",山西经济广播
 https://live.ximalaya.com/radio-first-page-app/live/891/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,运城文艺广播
+#EXTINF:-1 group-title="山西",运城文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/1251/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,长治交通广播
+#EXTINF:-1 group-title="山西",长治交通广播
 https://live.ximalaya.com/radio-first-page-app/live/1445/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,山西农村广播
+#EXTINF:-1 group-title="山西",山西农村广播
 https://live.ximalaya.com/radio-first-page-app/live/894/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,晋城交通广播
+#EXTINF:-1 group-title="山西",晋城交通广播
 https://live.ximalaya.com/radio-first-page-app/live/897/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,运城综合广播
+#EXTINF:-1 group-title="山西",运城综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1252/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,吕梁综合广播
+#EXTINF:-1 group-title="山西",吕梁综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2573/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,临汾综合广播
+#EXTINF:-1 group-title="山西",临汾综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2514/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,晋城综合广播
+#EXTINF:-1 group-title="山西",晋城综合广播
 https://live.ximalaya.com/radio-first-page-app/live/900/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,临汾交通文艺广播
+#EXTINF:-1 group-title="山西",临汾交通文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/2515/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,临汾音乐广播
+#EXTINF:-1 group-title="山西",临汾音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2516/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,长治都市音乐之声
+#EXTINF:-1 group-title="山西",长治都市音乐之声
 https://live.ximalaya.com/radio-first-page-app/live/2546/64.m3u8
-#EXTINF:-1 group-title="山西,#genre#" ,吕梁交通广播
+#EXTINF:-1 group-title="山西",吕梁交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2574/64.m3u8
-#EXTINF:-1 group-title="内蒙古,#genre#" ,鄂尔多斯文体交通广播
+#EXTINF:-1 group-title="内蒙古",鄂尔多斯文体交通广播
 https://live.ximalaya.com/radio-first-page-app/live/1089/64.m3u8
-#EXTINF:-1 group-title="内蒙古,#genre#" ,巴彦淖尔交通广播
+#EXTINF:-1 group-title="内蒙古",巴彦淖尔交通广播
 https://live.ximalaya.com/radio-first-page-app/live/1096/64.m3u8
-#EXTINF:-1 group-title="内蒙古,#genre#" ,兴和县综合广播
+#EXTINF:-1 group-title="内蒙古",兴和县综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2907/64.m3u8
-#EXTINF:-1 group-title="内蒙古,#genre#" ,巴彦淖尔新闻综合广播
+#EXTINF:-1 group-title="内蒙古",巴彦淖尔新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2598/64.m3u8
-#EXTINF:-1 group-title="内蒙古,#genre#" ,鄂尔多斯新闻综合广播
+#EXTINF:-1 group-title="内蒙古",鄂尔多斯新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1097/64.m3u8
-#EXTINF:-1 group-title="内蒙古,#genre#" ,鄂尔多斯蒙语综合广播
+#EXTINF:-1 group-title="内蒙古",鄂尔多斯蒙语综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1091/64.m3u8
-#EXTINF:-1 group-title="内蒙古,#genre#" ,莫旗FM103.5
+#EXTINF:-1 group-title="内蒙古",莫旗FM103.5
 https://live.ximalaya.com/radio-first-page-app/live/2899/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,沈阳之声
+#EXTINF:-1 group-title="辽宁",沈阳之声
 https://live.ximalaya.com/radio-first-page-app/live/328/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,大连交通广播
+#EXTINF:-1 group-title="辽宁",大连交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2817/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,辽宁都市广播
+#EXTINF:-1 group-title="辽宁",辽宁都市广播
 https://live.ximalaya.com/radio-first-page-app/live/331/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,大连新闻综合广播
+#EXTINF:-1 group-title="辽宁",大连新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2732/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,沈阳交通广播
+#EXTINF:-1 group-title="辽宁",沈阳交通广播
 https://live.ximalaya.com/radio-first-page-app/live/329/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,海城综合广播
+#EXTINF:-1 group-title="辽宁",海城综合广播
 https://live.ximalaya.com/radio-first-page-app/live/357/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,盘锦新闻综合广播
+#EXTINF:-1 group-title="辽宁",盘锦新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/348/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,盘锦交通文艺广播
+#EXTINF:-1 group-title="辽宁",盘锦交通文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/350/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,盘锦经济生活广播
+#EXTINF:-1 group-title="辽宁",盘锦经济生活广播
 https://live.ximalaya.com/radio-first-page-app/live/2696/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,FM105.6
+#EXTINF:-1 group-title="辽宁",FM105.6
 https://live.ximalaya.com/radio-first-page-app/live/325/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,大连都市之声
+#EXTINF:-1 group-title="辽宁",大连都市之声
 https://live.ximalaya.com/radio-first-page-app/live/2819/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,大连1043
+#EXTINF:-1 group-title="辽宁",大连1043
 https://live.ximalaya.com/radio-first-page-app/live/2707/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,辽阳交通文艺广播
+#EXTINF:-1 group-title="辽宁",辽阳交通文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/2060/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,辽宁生活广播
+#EXTINF:-1 group-title="辽宁",辽宁生活广播
 https://live.ximalaya.com/radio-first-page-app/live/2815/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,丹东综合广播
+#EXTINF:-1 group-title="辽宁",丹东综合广播
 https://live.ximalaya.com/radio-first-page-app/live/342/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,长海人民广播电台
+#EXTINF:-1 group-title="辽宁",长海人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2882/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,营口音乐之声
+#EXTINF:-1 group-title="辽宁",营口音乐之声
 https://live.ximalaya.com/radio-first-page-app/live/2863/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,营口新闻综合广播
+#EXTINF:-1 group-title="辽宁",营口新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2861/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,丹东交通广播
+#EXTINF:-1 group-title="辽宁",丹东交通广播
 https://live.ximalaya.com/radio-first-page-app/live/343/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,朝阳交通广播
+#EXTINF:-1 group-title="辽宁",朝阳交通广播
 https://live.ximalaya.com/radio-first-page-app/live/354/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,朝阳新闻综合广播
+#EXTINF:-1 group-title="辽宁",朝阳新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/353/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,营口交通文艺广播
+#EXTINF:-1 group-title="辽宁",营口交通文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/2862/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,朝阳经济广播
+#EXTINF:-1 group-title="辽宁",朝阳经济广播
 https://live.ximalaya.com/radio-first-page-app/live/355/64.m3u8
-#EXTINF:-1 group-title="辽宁,#genre#" ,鲅鱼圈综合广播
+#EXTINF:-1 group-title="辽宁",鲅鱼圈综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2733/64.m3u8
-#EXTINF:-1 group-title="吉林,#genre#" ,吉林旅游广播
+#EXTINF:-1 group-title="吉林",吉林旅游广播
 https://live.ximalaya.com/radio-first-page-app/live/436/64.m3u8
-#EXTINF:-1 group-title="吉林,#genre#" ,白山交通广播
+#EXTINF:-1 group-title="吉林",白山交通广播
 https://live.ximalaya.com/radio-first-page-app/live/459/64.m3u8
-#EXTINF:-1 group-title="吉林,#genre#" ,四平交通文艺台
+#EXTINF:-1 group-title="吉林",四平交通文艺台
 https://live.ximalaya.com/radio-first-page-app/live/2104/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,哈尔滨文艺广播
+#EXTINF:-1 group-title="黑龙江",哈尔滨文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/390/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,龙广都市女性台
+#EXTINF:-1 group-title="黑龙江",龙广都市女性台
 https://live.ximalaya.com/radio-first-page-app/live/378/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,哈尔滨交通广播
+#EXTINF:-1 group-title="黑龙江",哈尔滨交通广播
 https://live.ximalaya.com/radio-first-page-app/live/385/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,哈尔滨综合广播
+#EXTINF:-1 group-title="黑龙江",哈尔滨综合广播
 https://live.ximalaya.com/radio-first-page-app/live/389/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,牡丹江交通广播
+#EXTINF:-1 group-title="黑龙江",牡丹江交通广播
 https://live.ximalaya.com/radio-first-page-app/live/1559/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,哈尔滨音乐广播
+#EXTINF:-1 group-title="黑龙江",哈尔滨音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/386/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,北安综合广播
+#EXTINF:-1 group-title="黑龙江",北安综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2767/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,鸡西交通广播
+#EXTINF:-1 group-title="黑龙江",鸡西交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2735/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,大庆综合广播
+#EXTINF:-1 group-title="黑龙江",大庆综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1079/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,牡丹江综合广播
+#EXTINF:-1 group-title="黑龙江",牡丹江综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1558/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,大庆交通广播
+#EXTINF:-1 group-title="黑龙江",大庆交通广播
 https://live.ximalaya.com/radio-first-page-app/live/1080/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,龙广爱家频道
+#EXTINF:-1 group-title="黑龙江",龙广爱家频道
 https://live.ximalaya.com/radio-first-page-app/live/380/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,大庆音乐广播
+#EXTINF:-1 group-title="黑龙江",大庆音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/1081/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,鸡西综合广播
+#EXTINF:-1 group-title="黑龙江",鸡西综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2734/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,牡丹江经济广播
+#EXTINF:-1 group-title="黑龙江",牡丹江经济广播
 https://live.ximalaya.com/radio-first-page-app/live/1557/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,哈尔滨经济广播
+#EXTINF:-1 group-title="黑龙江",哈尔滨经济广播
 https://live.ximalaya.com/radio-first-page-app/live/387/64.m3u8
-#EXTINF:-1 group-title="黑龙江,#genre#" ,哈尔滨古典音乐广播
+#EXTINF:-1 group-title="黑龙江",哈尔滨古典音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/1664/64.m3u8
-#EXTINF:-1 group-title="上海,#genre#" ,上海新闻广播
+#EXTINF:-1 group-title="上海",上海新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/58/64.m3u8
-#EXTINF:-1 group-title="上海,#genre#" ,第一财经广播
+#EXTINF:-1 group-title="上海",第一财经广播
 https://live.ximalaya.com/radio-first-page-app/live/56/64.m3u8
-#EXTINF:-1 group-title="上海,#genre#" ,上海Love Radio
+#EXTINF:-1 group-title="上海",上海Love Radio
 https://live.ximalaya.com/radio-first-page-app/live/55/64.m3u8
-#EXTINF:-1 group-title="上海,#genre#" ,上海动感101
+#EXTINF:-1 group-title="上海",上海动感101
 https://live.ximalaya.com/radio-first-page-app/live/53/64.m3u8
-#EXTINF:-1 group-title="上海,#genre#" ,上海交通广播
+#EXTINF:-1 group-title="上海",上海交通广播
 https://live.ximalaya.com/radio-first-page-app/live/59/64.m3u8
-#EXTINF:-1 group-title="上海,#genre#" ,上海戏剧曲艺广播
+#EXTINF:-1 group-title="上海",上海戏剧曲艺广播
 https://live.ximalaya.com/radio-first-page-app/live/60/64.m3u8
-#EXTINF:-1 group-title="上海,#genre#" ,长三角之声
+#EXTINF:-1 group-title="上海",长三角之声
 https://live.ximalaya.com/radio-first-page-app/live/52/64.m3u8
-#EXTINF:-1 group-title="上海,#genre#" ,上海经典947
+#EXTINF:-1 group-title="上海",上海经典947
 https://live.ximalaya.com/radio-first-page-app/live/54/64.m3u8
-#EXTINF:-1 group-title="上海,#genre#" ,东上海之声
+#EXTINF:-1 group-title="上海",东上海之声
 https://live.ximalaya.com/radio-first-page-app/live/1239/64.m3u8
-#EXTINF:-1 group-title="上海,#genre#" ,上海城市沸点FM100.1
+#EXTINF:-1 group-title="上海",上海城市沸点FM100.1
 https://live.ximalaya.com/radio-first-page-app/live/1236/64.m3u8
-#EXTINF:-1 group-title="上海,#genre#" ,金山区综合广播
+#EXTINF:-1 group-title="上海",金山区综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2044/64.m3u8
-#EXTINF:-1 group-title="上海,#genre#" ,上海浦江之声
+#EXTINF:-1 group-title="上海",上海浦江之声
 https://live.ximalaya.com/radio-first-page-app/live/1235/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,江苏新闻广播
+#EXTINF:-1 group-title="江苏",江苏新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/534/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,江苏经典流行音乐
+#EXTINF:-1 group-title="江苏",江苏经典流行音乐
 https://live.ximalaya.com/radio-first-page-app/live/538/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,江苏交通广播
+#EXTINF:-1 group-title="江苏",江苏交通广播
 https://live.ximalaya.com/radio-first-page-app/live/536/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,苏州音乐广播
+#EXTINF:-1 group-title="江苏",苏州音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/65/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,南京交通广播
+#EXTINF:-1 group-title="江苏",南京交通广播
 https://live.ximalaya.com/radio-first-page-app/live/70/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,苏州交通广播
+#EXTINF:-1 group-title="江苏",苏州交通广播
 https://live.ximalaya.com/radio-first-page-app/live/64/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,南京音乐广播
+#EXTINF:-1 group-title="江苏",南京音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/71/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,南京新闻综合广播
+#EXTINF:-1 group-title="江苏",南京新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/68/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,苏州新闻广播
+#EXTINF:-1 group-title="江苏",苏州新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/63/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,江苏音乐广播
+#EXTINF:-1 group-title="江苏",江苏音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/537/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,江苏故事广播
+#EXTINF:-1 group-title="江苏",江苏故事广播
 https://live.ximalaya.com/radio-first-page-app/live/540/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,南京体育广播
+#EXTINF:-1 group-title="江苏",南京体育广播
 https://live.ximalaya.com/radio-first-page-app/live/88/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,苏州儿童广播
+#EXTINF:-1 group-title="江苏",苏州儿童广播
 https://live.ximalaya.com/radio-first-page-app/live/66/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,无锡交通广播
+#EXTINF:-1 group-title="江苏",无锡交通广播
 https://live.ximalaya.com/radio-first-page-app/live/560/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,江苏新闻综合广播
+#EXTINF:-1 group-title="江苏",江苏新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/533/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,南京新闻广播
+#EXTINF:-1 group-title="江苏",南京新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/543/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,徐州新闻综合广播
+#EXTINF:-1 group-title="江苏",徐州新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/602/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,江苏财经广播
+#EXTINF:-1 group-title="江苏",江苏财经广播
 https://live.ximalaya.com/radio-first-page-app/live/539/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,苏州生活广播
+#EXTINF:-1 group-title="江苏",苏州生活广播
 https://live.ximalaya.com/radio-first-page-app/live/573/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,南京经济广播
+#EXTINF:-1 group-title="江苏",南京经济广播
 https://live.ximalaya.com/radio-first-page-app/live/69/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,无锡新闻综合广播
+#EXTINF:-1 group-title="江苏",无锡新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/556/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,徐州铜山经典942
+#EXTINF:-1 group-title="江苏",徐州铜山经典942
 https://live.ximalaya.com/radio-first-page-app/live/2860/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,如东新闻综合广播
+#EXTINF:-1 group-title="江苏",如东新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2747/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,金陵之声
+#EXTINF:-1 group-title="江苏",金陵之声
 https://live.ximalaya.com/radio-first-page-app/live/1394/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,徐州音乐广播
+#EXTINF:-1 group-title="江苏",徐州音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2743/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,扬中人民广播电台
+#EXTINF:-1 group-title="江苏",扬中人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2645/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,无锡梁溪之声
+#EXTINF:-1 group-title="江苏",无锡梁溪之声
 https://live.ximalaya.com/radio-first-page-app/live/558/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,盐城新闻广播
+#EXTINF:-1 group-title="江苏",盐城新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/595/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,常熟广播声动1008
+#EXTINF:-1 group-title="江苏",常熟广播声动1008
 https://live.ximalaya.com/radio-first-page-app/live/565/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,扬州新闻广播
+#EXTINF:-1 group-title="江苏",扬州新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/2543/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,宁听FM885
+#EXTINF:-1 group-title="江苏",宁听FM885
 https://live.ximalaya.com/radio-first-page-app/live/2753/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,无锡经济广播
+#EXTINF:-1 group-title="江苏",无锡经济广播
 https://live.ximalaya.com/radio-first-page-app/live/563/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,无锡音乐广播
+#EXTINF:-1 group-title="江苏",无锡音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/561/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,徐州交通广播
+#EXTINF:-1 group-title="江苏",徐州交通广播
 https://live.ximalaya.com/radio-first-page-app/live/603/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,江苏文艺广播
+#EXTINF:-1 group-title="江苏",江苏文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/541/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,江阴人民广播电台
+#EXTINF:-1 group-title="江苏",江阴人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2857/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,镇江综合广播
+#EXTINF:-1 group-title="江苏",镇江综合广播
 https://live.ximalaya.com/radio-first-page-app/live/589/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,苏州戏曲广播
+#EXTINF:-1 group-title="江苏",苏州戏曲广播
 https://live.ximalaya.com/radio-first-page-app/live/576/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,常州交通广播
+#EXTINF:-1 group-title="江苏",常州交通广播
 https://live.ximalaya.com/radio-first-page-app/live/82/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,东海994
+#EXTINF:-1 group-title="江苏",东海994
 https://live.ximalaya.com/radio-first-page-app/live/2638/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,昆山综合广播
+#EXTINF:-1 group-title="江苏",昆山综合广播
 https://live.ximalaya.com/radio-first-page-app/live/749/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,常熟交通广播
+#EXTINF:-1 group-title="江苏",常熟交通广播
 https://live.ximalaya.com/radio-first-page-app/live/566/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,常州新闻广播
+#EXTINF:-1 group-title="江苏",常州新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/79/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,南通音乐广播
+#EXTINF:-1 group-title="江苏",南通音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/742/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,南京城市调频
+#EXTINF:-1 group-title="江苏",南京城市调频
 https://live.ximalaya.com/radio-first-page-app/live/90/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,徐州农村广播
+#EXTINF:-1 group-title="江苏",徐州农村广播
 https://live.ximalaya.com/radio-first-page-app/live/2478/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,淮安汽车音乐广播
+#EXTINF:-1 group-title="江苏",淮安汽车音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/1341/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,宜兴交通台
+#EXTINF:-1 group-title="江苏",宜兴交通台
 https://live.ximalaya.com/radio-first-page-app/live/568/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,镇江交通广播
+#EXTINF:-1 group-title="江苏",镇江交通广播
 https://live.ximalaya.com/radio-first-page-app/live/588/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,常州音乐广播
+#EXTINF:-1 group-title="江苏",常州音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/80/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,淮安车生活广播
+#EXTINF:-1 group-title="江苏",淮安车生活广播
 https://live.ximalaya.com/radio-first-page-app/live/2776/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,江苏健康广播
+#EXTINF:-1 group-title="江苏",江苏健康广播
 https://live.ximalaya.com/radio-first-page-app/live/542/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,南通新闻广播
+#EXTINF:-1 group-title="江苏",南通新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/739/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,灌南综合广播
+#EXTINF:-1 group-title="江苏",灌南综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2722/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,太仓综合广播
+#EXTINF:-1 group-title="江苏",太仓综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2844/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,南京活力广播
+#EXTINF:-1 group-title="江苏",南京活力广播
 https://live.ximalaya.com/radio-first-page-app/live/2697/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,扬州音乐广播
+#EXTINF:-1 group-title="江苏",扬州音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/67/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,常州经济广播
+#EXTINF:-1 group-title="江苏",常州经济广播
 https://live.ximalaya.com/radio-first-page-app/live/81/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,无锡新闻综合广播
+#EXTINF:-1 group-title="江苏",无锡新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/562/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,南通交通广播
+#EXTINF:-1 group-title="江苏",南通交通广播
 https://live.ximalaya.com/radio-first-page-app/live/741/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,淮安新闻综合广播
+#EXTINF:-1 group-title="江苏",淮安新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/744/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,泰州交通广播
+#EXTINF:-1 group-title="江苏",泰州交通广播
 https://live.ximalaya.com/radio-first-page-app/live/580/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,886武进之声
+#EXTINF:-1 group-title="江苏",886武进之声
 https://live.ximalaya.com/radio-first-page-app/live/2874/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,爱听102
+#EXTINF:-1 group-title="江苏",爱听102
 https://live.ximalaya.com/radio-first-page-app/live/2895/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,淮安经典992
+#EXTINF:-1 group-title="江苏",淮安经典992
 https://live.ximalaya.com/radio-first-page-app/live/2821/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,盐城音乐广播
+#EXTINF:-1 group-title="江苏",盐城音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/1340/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,镇江文艺广播
+#EXTINF:-1 group-title="江苏",镇江文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/592/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,吴江综合广播
+#EXTINF:-1 group-title="江苏",吴江综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1342/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,盐城交通广播
+#EXTINF:-1 group-title="江苏",盐城交通广播
 https://live.ximalaya.com/radio-first-page-app/live/594/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,泰州音乐广播
+#EXTINF:-1 group-title="江苏",泰州音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/579/64.m3u8
-#EXTINF:-1 group-title="江苏,#genre#" ,南通私家车广播
+#EXTINF:-1 group-title="江苏",南通私家车广播
 https://live.ximalaya.com/radio-first-page-app/live/740/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,浙江之声
+#EXTINF:-1 group-title="浙江",浙江之声
 https://live.ximalaya.com/radio-first-page-app/live/633/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,浙江交通之声
+#EXTINF:-1 group-title="浙江",浙江交通之声
 https://live.ximalaya.com/radio-first-page-app/live/634/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,杭州交通经济广播
+#EXTINF:-1 group-title="浙江",杭州交通经济广播
 https://live.ximalaya.com/radio-first-page-app/live/632/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,杭州西湖之声
+#EXTINF:-1 group-title="浙江",杭州西湖之声
 https://live.ximalaya.com/radio-first-page-app/live/635/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,浙江城市之声
+#EXTINF:-1 group-title="浙江",浙江城市之声
 https://live.ximalaya.com/radio-first-page-app/live/638/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,浙江音乐调频
+#EXTINF:-1 group-title="浙江",浙江音乐调频
 https://live.ximalaya.com/radio-first-page-app/live/637/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,嘉兴交通广播
+#EXTINF:-1 group-title="浙江",嘉兴交通广播
 https://live.ximalaya.com/radio-first-page-app/live/640/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,湖州经济广播
+#EXTINF:-1 group-title="浙江",湖州经济广播
 https://live.ximalaya.com/radio-first-page-app/live/647/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,嘉兴新闻广播
+#EXTINF:-1 group-title="浙江",嘉兴新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/650/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,杭州之声
+#EXTINF:-1 group-title="浙江",杭州之声
 https://live.ximalaya.com/radio-first-page-app/live/646/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,杭州FM90.7
+#EXTINF:-1 group-title="浙江",杭州FM90.7
 https://live.ximalaya.com/radio-first-page-app/live/1845/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,宁波交通广播
+#EXTINF:-1 group-title="浙江",宁波交通广播
 https://live.ximalaya.com/radio-first-page-app/live/649/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,温州音乐之声
+#EXTINF:-1 group-title="浙江",温州音乐之声
 https://live.ximalaya.com/radio-first-page-app/live/642/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,湖州新闻综合广播
+#EXTINF:-1 group-title="浙江",湖州新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/675/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,大潮之声
+#EXTINF:-1 group-title="浙江",大潮之声
 https://live.ximalaya.com/radio-first-page-app/live/2873/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,FM104.5旅游之声
+#EXTINF:-1 group-title="浙江",FM104.5旅游之声
 https://live.ximalaya.com/radio-first-page-app/live/636/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,宁波经济广播
+#EXTINF:-1 group-title="浙江",宁波经济广播
 https://live.ximalaya.com/radio-first-page-app/live/661/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,嘉兴音乐广播
+#EXTINF:-1 group-title="浙江",嘉兴音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/651/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,1047 Nice Fm
+#EXTINF:-1 group-title="浙江",1047 Nice Fm
 https://live.ximalaya.com/radio-first-page-app/live/643/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,温州交通广播
+#EXTINF:-1 group-title="浙江",温州交通广播
 https://live.ximalaya.com/radio-first-page-app/live/641/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,绍兴综合广播
+#EXTINF:-1 group-title="浙江",绍兴综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2859/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,桐乡之声
+#EXTINF:-1 group-title="浙江",桐乡之声
 https://live.ximalaya.com/radio-first-page-app/live/691/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,宁波新闻综合广播
+#EXTINF:-1 group-title="浙江",宁波新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/653/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,湖州交通文艺广播
+#EXTINF:-1 group-title="浙江",湖州交通文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/656/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,富阳人民广播电台
+#EXTINF:-1 group-title="浙江",富阳人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2913/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,黄岩电台
+#EXTINF:-1 group-title="浙江",黄岩电台
 https://live.ximalaya.com/radio-first-page-app/live/2070/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,温岭电台
+#EXTINF:-1 group-title="浙江",温岭电台
 https://live.ximalaya.com/radio-first-page-app/live/2904/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,温州新闻广播
+#EXTINF:-1 group-title="浙江",温州新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/655/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,嘉善人民广播电台
+#EXTINF:-1 group-title="浙江",嘉善人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2871/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,杭州老朋友广播
+#EXTINF:-1 group-title="浙江",杭州老朋友广播
 https://live.ximalaya.com/radio-first-page-app/live/2832/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,1052loveradio
+#EXTINF:-1 group-title="浙江",1052loveradio
 https://live.ximalaya.com/radio-first-page-app/live/2884/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,台州交通广播
+#EXTINF:-1 group-title="浙江",台州交通广播
 https://live.ximalaya.com/radio-first-page-app/live/676/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,舟山交通音乐广播
+#EXTINF:-1 group-title="浙江",舟山交通音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/684/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,义乌新闻广播
+#EXTINF:-1 group-title="浙江",义乌新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/2921/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,衢州新闻综合广播
+#EXTINF:-1 group-title="浙江",衢州新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2851/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,绍兴交通广播
+#EXTINF:-1 group-title="浙江",绍兴交通广播
 https://live.ximalaya.com/radio-first-page-app/live/672/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,台州新闻综合广播
+#EXTINF:-1 group-title="浙江",台州新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/682/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,温州经济生活广播
+#EXTINF:-1 group-title="浙江",温州经济生活广播
 https://live.ximalaya.com/radio-first-page-app/live/659/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,舟山新闻综合广播
+#EXTINF:-1 group-title="浙江",舟山新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/683/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,兰溪电台
+#EXTINF:-1 group-title="浙江",兰溪电台
 https://live.ximalaya.com/radio-first-page-app/live/1674/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,绍兴音乐广播
+#EXTINF:-1 group-title="浙江",绍兴音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/670/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,台州音乐广播
+#EXTINF:-1 group-title="浙江",台州音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/668/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,温州绿色之声
+#EXTINF:-1 group-title="浙江",温州绿色之声
 https://live.ximalaya.com/radio-first-page-app/live/663/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,德清人民广播电台
+#EXTINF:-1 group-title="浙江",德清人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/1295/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,衢州交通音乐广播
+#EXTINF:-1 group-title="浙江",衢州交通音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2850/64.m3u8
-#EXTINF:-1 group-title="浙江,#genre#" ,太湖之声
+#EXTINF:-1 group-title="浙江",太湖之声
 https://live.ximalaya.com/radio-first-page-app/live/1297/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,安徽交通广播
+#EXTINF:-1 group-title="安徽",安徽交通广播
 https://live.ximalaya.com/radio-first-page-app/live/138/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,安徽生活广播
+#EXTINF:-1 group-title="安徽",安徽生活广播
 https://live.ximalaya.com/radio-first-page-app/live/137/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,安徽戏曲广播
+#EXTINF:-1 group-title="安徽",安徽戏曲广播
 https://live.ximalaya.com/radio-first-page-app/live/141/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,安徽音乐广播
+#EXTINF:-1 group-title="安徽",安徽音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/136/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,安徽老年广播
+#EXTINF:-1 group-title="安徽",安徽老年广播
 https://live.ximalaya.com/radio-first-page-app/live/140/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,新闻881
+#EXTINF:-1 group-title="安徽",新闻881
 https://live.ximalaya.com/radio-first-page-app/live/148/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,安徽综合广播
+#EXTINF:-1 group-title="安徽",安徽综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2833/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,蚌埠交通文艺广播
+#EXTINF:-1 group-title="安徽",蚌埠交通文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/151/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,滁州旅游交通广播
+#EXTINF:-1 group-title="安徽",滁州旅游交通广播
 https://live.ximalaya.com/radio-first-page-app/live/174/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,芜湖新闻综合广播
+#EXTINF:-1 group-title="安徽",芜湖新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/165/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,蚌埠综合广播
+#EXTINF:-1 group-title="安徽",蚌埠综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2680/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,合肥故事广播
+#EXTINF:-1 group-title="安徽",合肥故事广播
 https://live.ximalaya.com/radio-first-page-app/live/146/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,安徽旅游高速之声
+#EXTINF:-1 group-title="安徽",安徽旅游高速之声
 https://live.ximalaya.com/radio-first-page-app/live/2404/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,芜湖交通经济广播
+#EXTINF:-1 group-title="安徽",芜湖交通经济广播
 https://live.ximalaya.com/radio-first-page-app/live/167/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,安徽农村广播
+#EXTINF:-1 group-title="安徽",安徽农村广播
 https://live.ximalaya.com/radio-first-page-app/live/139/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,宿州交通广播
+#EXTINF:-1 group-title="安徽",宿州交通广播
 https://live.ximalaya.com/radio-first-page-app/live/1391/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,蚌埠经典104.2
+#EXTINF:-1 group-title="安徽",蚌埠经典104.2
 https://live.ximalaya.com/radio-first-page-app/live/153/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,安徽经济广播
+#EXTINF:-1 group-title="安徽",安徽经济广播
 https://live.ximalaya.com/radio-first-page-app/live/135/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,滁州综合广播
+#EXTINF:-1 group-title="安徽",滁州综合广播
 https://live.ximalaya.com/radio-first-page-app/live/154/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,天长人民广播电台
+#EXTINF:-1 group-title="安徽",天长人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/1640/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,滁州文艺广播
+#EXTINF:-1 group-title="安徽",滁州文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/156/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,淮北交通广播
+#EXTINF:-1 group-title="安徽",淮北交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2577/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,淮北综合广播
+#EXTINF:-1 group-title="安徽",淮北综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2576/64.m3u8
-#EXTINF:-1 group-title="安徽,#genre#" ,徽商广播
+#EXTINF:-1 group-title="安徽",徽商广播
 https://live.ximalaya.com/radio-first-page-app/live/144/64.m3u8
-#EXTINF:-1 group-title="福建,#genre#" ,福建新闻广播
+#EXTINF:-1 group-title="福建",福建新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/792/64.m3u8
-#EXTINF:-1 group-title="福建,#genre#" ,泉州经济生活广播
+#EXTINF:-1 group-title="福建",泉州经济生活广播
 https://live.ximalaya.com/radio-first-page-app/live/1166/64.m3u8
-#EXTINF:-1 group-title="福建,#genre#" ,987私家车广播
+#EXTINF:-1 group-title="福建",987私家车广播
 https://live.ximalaya.com/radio-first-page-app/live/793/64.m3u8
-#EXTINF:-1 group-title="福建,#genre#" ,福建交通广播
+#EXTINF:-1 group-title="福建",福建交通广播
 https://live.ximalaya.com/radio-first-page-app/live/790/64.m3u8
-#EXTINF:-1 group-title="福建,#genre#" ,福建音乐广播
+#EXTINF:-1 group-title="福建",福建音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/791/64.m3u8
-#EXTINF:-1 group-title="福建,#genre#" ,石狮综合广播
+#EXTINF:-1 group-title="福建",石狮综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2730/64.m3u8
-#EXTINF:-1 group-title="福建,#genre#" ,福建经济广播
+#EXTINF:-1 group-title="福建",福建经济广播
 https://live.ximalaya.com/radio-first-page-app/live/789/64.m3u8
-#EXTINF:-1 group-title="福建,#genre#" ,福鼎综合广播
+#EXTINF:-1 group-title="福建",福鼎综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2777/64.m3u8
-#EXTINF:-1 group-title="福建,#genre#" ,闽侯综合广播
+#EXTINF:-1 group-title="福建",闽侯综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2772/64.m3u8
-#EXTINF:-1 group-title="福建,#genre#" ,福建东南广播
+#EXTINF:-1 group-title="福建",福建东南广播
 https://live.ximalaya.com/radio-first-page-app/live/788/64.m3u8
-#EXTINF:-1 group-title="福建,#genre#" ,漳浦综合广播
+#EXTINF:-1 group-title="福建",漳浦综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1168/64.m3u8
-#EXTINF:-1 group-title="福建,#genre#" ,南安综合广播
+#EXTINF:-1 group-title="福建",南安综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1906/64.m3u8
-#EXTINF:-1 group-title="福建,#genre#" ,平潭综合广播
+#EXTINF:-1 group-title="福建",平潭综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2828/64.m3u8
-#EXTINF:-1 group-title="福建,#genre#" ,龙岩旅游广播
+#EXTINF:-1 group-title="福建",龙岩旅游广播
 https://live.ximalaya.com/radio-first-page-app/live/2805/64.m3u8
-#EXTINF:-1 group-title="福建,#genre#" ,沙溪之声995
+#EXTINF:-1 group-title="福建",沙溪之声995
 https://live.ximalaya.com/radio-first-page-app/live/202/64.m3u8
-#EXTINF:-1 group-title="江西,#genre#" ,江西新闻广播
+#EXTINF:-1 group-title="江西",江西新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/606/64.m3u8
-#EXTINF:-1 group-title="江西,#genre#" ,南昌交通音乐广播
+#EXTINF:-1 group-title="江西",南昌交通音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/618/64.m3u8
-#EXTINF:-1 group-title="江西,#genre#" ,江西潮台969
+#EXTINF:-1 group-title="江西",江西潮台969
 https://live.ximalaya.com/radio-first-page-app/live/613/64.m3u8
-#EXTINF:-1 group-title="江西,#genre#" ,江西交通广播
+#EXTINF:-1 group-title="江西",江西交通广播
 https://live.ximalaya.com/radio-first-page-app/live/609/64.m3u8
-#EXTINF:-1 group-title="江西,#genre#" ,江西旅游广播
+#EXTINF:-1 group-title="江西",江西旅游广播
 https://live.ximalaya.com/radio-first-page-app/live/1303/64.m3u8
-#EXTINF:-1 group-title="江西,#genre#" ,江西财经广播
+#EXTINF:-1 group-title="江西",江西财经广播
 https://live.ximalaya.com/radio-first-page-app/live/614/64.m3u8
-#EXTINF:-1 group-title="江西,#genre#" ,江西音乐广播
+#EXTINF:-1 group-title="江西",江西音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/608/64.m3u8
-#EXTINF:-1 group-title="江西,#genre#" ,南康综合广播
+#EXTINF:-1 group-title="江西",南康综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2867/64.m3u8
-#EXTINF:-1 group-title="江西,#genre#" ,赣州综合广播
+#EXTINF:-1 group-title="江西",赣州综合广播
 https://live.ximalaya.com/radio-first-page-app/live/620/64.m3u8
-#EXTINF:-1 group-title="江西,#genre#" ,景德镇新闻综合广播
+#EXTINF:-1 group-title="江西",景德镇新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2073/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,济南经济广播
+#EXTINF:-1 group-title="山东",济南经济广播
 https://live.ximalaya.com/radio-first-page-app/live/800/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,经典音乐调频
+#EXTINF:-1 group-title="山东",经典音乐调频
 https://live.ximalaya.com/radio-first-page-app/live/1853/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,山东经典音乐广播
+#EXTINF:-1 group-title="山东",山东经典音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/802/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,山东音乐频道
+#EXTINF:-1 group-title="山东",山东音乐频道
 https://live.ximalaya.com/radio-first-page-app/live/794/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,山东体育休闲广播
+#EXTINF:-1 group-title="山东",山东体育休闲广播
 https://live.ximalaya.com/radio-first-page-app/live/805/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,济南音乐广播
+#EXTINF:-1 group-title="山东",济南音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/799/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,FM898汽车音乐广播
+#EXTINF:-1 group-title="山东",FM898汽车音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2829/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,临沂交通旅游广播
+#EXTINF:-1 group-title="山东",临沂交通旅游广播
 https://live.ximalaya.com/radio-first-page-app/live/1275/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,青岛西海岸综合广播
+#EXTINF:-1 group-title="山东",青岛西海岸综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2118/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,淄博私家车广播
+#EXTINF:-1 group-title="山东",淄博私家车广播
 https://live.ximalaya.com/radio-first-page-app/live/819/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,济宁交通文艺广播
+#EXTINF:-1 group-title="山东",济宁交通文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/808/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,烟台音乐广播
+#EXTINF:-1 group-title="山东",烟台音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2716/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,临沂综合广播
+#EXTINF:-1 group-title="山东",临沂综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1291/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,淄博交通音乐广播
+#EXTINF:-1 group-title="山东",淄博交通音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/817/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,烟台综合广播
+#EXTINF:-1 group-title="山东",烟台综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2717/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,淄博综合广播
+#EXTINF:-1 group-title="山东",淄博综合广播
 https://live.ximalaya.com/radio-first-page-app/live/828/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,崂山921
+#EXTINF:-1 group-title="山东",崂山921
 https://live.ximalaya.com/radio-first-page-app/live/2806/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,济宁综合广播
+#EXTINF:-1 group-title="山东",济宁综合广播
 https://live.ximalaya.com/radio-first-page-app/live/826/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,胶州FM87.5
+#EXTINF:-1 group-title="山东",胶州FM87.5
 https://live.ximalaya.com/radio-first-page-app/live/2914/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,自在905
+#EXTINF:-1 group-title="山东",自在905
 https://live.ximalaya.com/radio-first-page-app/live/2775/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,梁山综合广播
+#EXTINF:-1 group-title="山东",梁山综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2918/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,烟台交通广播
+#EXTINF:-1 group-title="山东",烟台交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2715/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,经典音乐广播FM94.8
+#EXTINF:-1 group-title="山东",经典音乐广播FM94.8
 https://live.ximalaya.com/radio-first-page-app/live/2718/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,潍坊交通广播
+#EXTINF:-1 group-title="山东",潍坊交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2417/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,潍坊新闻广播
+#EXTINF:-1 group-title="山东",潍坊新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/849/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,邹城之声
+#EXTINF:-1 group-title="山东",邹城之声
 https://live.ximalaya.com/radio-first-page-app/live/2738/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,历城音乐广播
+#EXTINF:-1 group-title="山东",历城音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2903/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,庆云综合广播
+#EXTINF:-1 group-title="山东",庆云综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2117/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,寿光市综合广播
+#EXTINF:-1 group-title="山东",寿光市综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2875/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,东营综合广播
+#EXTINF:-1 group-title="山东",东营综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2841/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,东营交通音乐广播
+#EXTINF:-1 group-title="山东",东营交通音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/835/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,日照交通生活广播
+#EXTINF:-1 group-title="山东",日照交通生活广播
 https://live.ximalaya.com/radio-first-page-app/live/2922/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,潍坊933经济广播
+#EXTINF:-1 group-title="山东",潍坊933经济广播
 https://live.ximalaya.com/radio-first-page-app/live/841/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,青州市综合广播
+#EXTINF:-1 group-title="山东",青州市综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2901/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,菏泽音乐广播
+#EXTINF:-1 group-title="山东",菏泽音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/839/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,潍坊音乐之声
+#EXTINF:-1 group-title="山东",潍坊音乐之声
 https://live.ximalaya.com/radio-first-page-app/live/1870/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,菏泽交通广播
+#EXTINF:-1 group-title="山东",菏泽交通广播
 https://live.ximalaya.com/radio-first-page-app/live/845/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,菏泽新闻广播
+#EXTINF:-1 group-title="山东",菏泽新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/2397/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,莱西之声
+#EXTINF:-1 group-title="山东",莱西之声
 https://live.ximalaya.com/radio-first-page-app/live/2705/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,利津FM106.2
+#EXTINF:-1 group-title="山东",利津FM106.2
 https://live.ximalaya.com/radio-first-page-app/live/2797/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,东营生活广播
+#EXTINF:-1 group-title="山东",东营生活广播
 https://live.ximalaya.com/radio-first-page-app/live/2839/64.m3u8
-#EXTINF:-1 group-title="山东,#genre#" ,潍坊城市之声
+#EXTINF:-1 group-title="山东",潍坊城市之声
 https://live.ximalaya.com/radio-first-page-app/live/2813/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,郑州新闻广播
+#EXTINF:-1 group-title="河南",郑州新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/470/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,流行音乐先锋
+#EXTINF:-1 group-title="河南",流行音乐先锋
 https://live.ximalaya.com/radio-first-page-app/live/468/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,郑州交通广播
+#EXTINF:-1 group-title="河南",郑州交通广播
 https://live.ximalaya.com/radio-first-page-app/live/474/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,经典FM
+#EXTINF:-1 group-title="河南",经典FM
 https://live.ximalaya.com/radio-first-page-app/live/2689/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,洛阳交通广播
+#EXTINF:-1 group-title="河南",洛阳交通广播
 https://live.ximalaya.com/radio-first-page-app/live/492/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,洛阳音乐广播
+#EXTINF:-1 group-title="河南",洛阳音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/493/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,郑州经济生活广播
+#EXTINF:-1 group-title="河南",郑州经济生活广播
 https://live.ximalaya.com/radio-first-page-app/live/471/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,开封私家车音乐广播
+#EXTINF:-1 group-title="河南",开封私家车音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2872/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,南阳交通广播
+#EXTINF:-1 group-title="河南",南阳交通广播
 https://live.ximalaya.com/radio-first-page-app/live/479/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,洛阳综合广播
+#EXTINF:-1 group-title="河南",洛阳综合广播
 https://live.ximalaya.com/radio-first-page-app/live/491/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,漯河综合广播
+#EXTINF:-1 group-title="河南",漯河综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1690/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,郑州经典1079
+#EXTINF:-1 group-title="河南",郑州经典1079
 https://live.ximalaya.com/radio-first-page-app/live/476/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,国风国潮FM105.9
+#EXTINF:-1 group-title="河南",国风国潮FM105.9
 https://live.ximalaya.com/radio-first-page-app/live/2887/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,周口交通广播
+#EXTINF:-1 group-title="河南",周口交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2864/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,新乡交通广播
+#EXTINF:-1 group-title="河南",新乡交通广播
 https://live.ximalaya.com/radio-first-page-app/live/480/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,郑州音乐广播
+#EXTINF:-1 group-title="河南",郑州音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/475/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,许昌交通广播
+#EXTINF:-1 group-title="河南",许昌交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2165/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,禹州人民广播电台
+#EXTINF:-1 group-title="河南",禹州人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2866/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,Big Radio
+#EXTINF:-1 group-title="河南",Big Radio
 https://live.ximalaya.com/radio-first-page-app/live/1879/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,商丘新闻综合广播
+#EXTINF:-1 group-title="河南",商丘新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1271/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,好音乐1023
+#EXTINF:-1 group-title="河南",好音乐1023
 https://live.ximalaya.com/radio-first-page-app/live/2728/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,驻马店交通广播
+#EXTINF:-1 group-title="河南",驻马店交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2757/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,动感音乐台
+#EXTINF:-1 group-title="河南",动感音乐台
 https://live.ximalaya.com/radio-first-page-app/live/2687/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,潢川人民广播电台
+#EXTINF:-1 group-title="河南",潢川人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2765/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,河南信息广播
+#EXTINF:-1 group-title="河南",河南信息广播
 https://live.ximalaya.com/radio-first-page-app/live/1650/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,项城交通广播
+#EXTINF:-1 group-title="河南",项城交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2886/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,商丘交通广播
+#EXTINF:-1 group-title="河南",商丘交通广播
 https://live.ximalaya.com/radio-first-page-app/live/1261/64.m3u8
-#EXTINF:-1 group-title="河南,#genre#" ,漯河交通广播
+#EXTINF:-1 group-title="河南",漯河交通广播
 https://live.ximalaya.com/radio-first-page-app/live/1272/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,武汉新闻广播
+#EXTINF:-1 group-title="湖北",武汉新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/713/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,武汉交通广播
+#EXTINF:-1 group-title="湖北",武汉交通广播
 https://live.ximalaya.com/radio-first-page-app/live/716/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,武汉音乐广播
+#EXTINF:-1 group-title="湖北",武汉音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2605/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,武汉经济广播
+#EXTINF:-1 group-title="湖北",武汉经济广播
 https://live.ximalaya.com/radio-first-page-app/live/714/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,湖北经典音乐广播
+#EXTINF:-1 group-title="湖北",湖北经典音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/709/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,荆门综合广播
+#EXTINF:-1 group-title="湖北",荆门综合广播
 https://live.ximalaya.com/radio-first-page-app/live/732/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,湖北经济广播
+#EXTINF:-1 group-title="湖北",湖北经济广播
 https://live.ximalaya.com/radio-first-page-app/live/707/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,襄阳交通广播
+#EXTINF:-1 group-title="湖北",襄阳交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2917/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,宜昌交通广播
+#EXTINF:-1 group-title="湖北",宜昌交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2894/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,荆门交通音乐广播
+#EXTINF:-1 group-title="湖北",荆门交通音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/733/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,魅力FM1064城市生活音乐广播
+#EXTINF:-1 group-title="湖北",魅力FM1064城市生活音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/1580/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,江陵综合广播
+#EXTINF:-1 group-title="湖北",江陵综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2877/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,应城人民广播电台
+#EXTINF:-1 group-title="湖北",应城人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2798/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,十堰综合广播
+#EXTINF:-1 group-title="湖北",十堰综合广播
 https://live.ximalaya.com/radio-first-page-app/live/730/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,十堰交通音乐广播
+#EXTINF:-1 group-title="湖北",十堰交通音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/731/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,恩施新闻综合广播
+#EXTINF:-1 group-title="湖北",恩施新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1435/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,恩施交通音乐广播
+#EXTINF:-1 group-title="湖北",恩施交通音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/1434/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,孝感新闻综合广播
+#EXTINF:-1 group-title="湖北",孝感新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2095/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,十堰旅游生活广播
+#EXTINF:-1 group-title="湖北",十堰旅游生活广播
 https://live.ximalaya.com/radio-first-page-app/live/2653/64.m3u8
-#EXTINF:-1 group-title="湖北,#genre#" ,荆州交通广播
+#EXTINF:-1 group-title="湖北",荆州交通广播
 https://live.ximalaya.com/radio-first-page-app/live/728/64.m3u8
-#EXTINF:-1 group-title="湖南,#genre#" ,湖南金鹰955
+#EXTINF:-1 group-title="湖南",湖南金鹰955
 https://live.ximalaya.com/radio-first-page-app/live/405/64.m3u8
-#EXTINF:-1 group-title="湖南,#genre#" ,桃江人民广播电台
+#EXTINF:-1 group-title="湖南",桃江人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/1874/64.m3u8
-#EXTINF:-1 group-title="湖南,#genre#" ,长沙交通广播
+#EXTINF:-1 group-title="湖南",长沙交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2909/64.m3u8
-#EXTINF:-1 group-title="湖南,#genre#" ,永州新闻综合广播
+#EXTINF:-1 group-title="湖南",永州新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2634/64.m3u8
-#EXTINF:-1 group-title="湖南,#genre#" ,长沙音乐广播
+#EXTINF:-1 group-title="湖南",长沙音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2910/64.m3u8
-#EXTINF:-1 group-title="湖南,#genre#" ,长沙城市之声
+#EXTINF:-1 group-title="湖南",长沙城市之声
 https://live.ximalaya.com/radio-first-page-app/live/2911/64.m3u8
-#EXTINF:-1 group-title="湖南,#genre#" ,常德综合广播
+#EXTINF:-1 group-title="湖南",常德综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2650/64.m3u8
-#EXTINF:-1 group-title="湖南,#genre#" ,衡阳交通经济广播
+#EXTINF:-1 group-title="湖南",衡阳交通经济广播
 https://live.ximalaya.com/radio-first-page-app/live/1181/64.m3u8
-#EXTINF:-1 group-title="湖南,#genre#" ,湘潭新闻综合广播
+#EXTINF:-1 group-title="湖南",湘潭新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2673/64.m3u8
-#EXTINF:-1 group-title="湖南,#genre#" ,常德交通广播
+#EXTINF:-1 group-title="湖南",常德交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2648/64.m3u8
-#EXTINF:-1 group-title="湖南,#genre#" ,娄底综合广播
+#EXTINF:-1 group-title="湖南",娄底综合广播
 https://live.ximalaya.com/radio-first-page-app/live/416/64.m3u8
-#EXTINF:-1 group-title="湖南,#genre#" ,常德活力调频鼎广电台
+#EXTINF:-1 group-title="湖南",常德活力调频鼎广电台
 https://live.ximalaya.com/radio-first-page-app/live/1184/64.m3u8
-#EXTINF:-1 group-title="湖南,#genre#" ,长沙品味音乐广播
+#EXTINF:-1 group-title="湖南",长沙品味音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/401/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,怀集音乐之声
+#EXTINF:-1 group-title="广东",怀集音乐之声
 https://live.ximalaya.com/radio-first-page-app/live/966/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,广东珠江经济电台
+#EXTINF:-1 group-title="广东",广东珠江经济电台
 https://live.ximalaya.com/radio-first-page-app/live/252/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,广东城市之声
+#EXTINF:-1 group-title="广东",广东城市之声
 https://live.ximalaya.com/radio-first-page-app/live/247/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,广东交通之声
+#EXTINF:-1 group-title="广东",广东交通之声
 https://live.ximalaya.com/radio-first-page-app/live/248/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,广东新闻广播
+#EXTINF:-1 group-title="广东",广东新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/245/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,深圳先锋898
+#EXTINF:-1 group-title="广东",深圳先锋898
 https://live.ximalaya.com/radio-first-page-app/live/262/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,广东文体广播
+#EXTINF:-1 group-title="广东",广东文体广播
 https://live.ximalaya.com/radio-first-page-app/live/967/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,广东音乐之声
+#EXTINF:-1 group-title="广东",广东音乐之声
 https://live.ximalaya.com/radio-first-page-app/live/74/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,广州新闻资讯
+#EXTINF:-1 group-title="广东",广州新闻资讯
 https://live.ximalaya.com/radio-first-page-app/live/256/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,股市广播
+#EXTINF:-1 group-title="广东",股市广播
 https://live.ximalaya.com/radio-first-page-app/live/2896/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,怀集音乐之声第二台
+#EXTINF:-1 group-title="广东",怀集音乐之声第二台
 https://live.ximalaya.com/radio-first-page-app/live/1205/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,广东南方生活广播
+#EXTINF:-1 group-title="广东",广东南方生活广播
 https://live.ximalaya.com/radio-first-page-app/live/249/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,广州交通广播
+#EXTINF:-1 group-title="广东",广州交通广播
 https://live.ximalaya.com/radio-first-page-app/live/258/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,深圳交通频率
+#EXTINF:-1 group-title="广东",深圳交通频率
 https://live.ximalaya.com/radio-first-page-app/live/264/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,广州MYFM 88.0
+#EXTINF:-1 group-title="广东",广州MYFM 88.0
 https://live.ximalaya.com/radio-first-page-app/live/259/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,斗门电台
+#EXTINF:-1 group-title="广东",斗门电台
 https://live.ximalaya.com/radio-first-page-app/live/2740/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,深圳飞扬971
+#EXTINF:-1 group-title="广东",深圳飞扬971
 https://live.ximalaya.com/radio-first-page-app/live/263/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,珠江之声
+#EXTINF:-1 group-title="广东",珠江之声
 https://live.ximalaya.com/radio-first-page-app/live/255/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,广州金曲音乐广播
+#EXTINF:-1 group-title="广东",广州金曲音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/257/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,台山人民广播电台
+#EXTINF:-1 group-title="广东",台山人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/1216/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,深圳电台湾区之声1043
+#EXTINF:-1 group-title="广东",深圳电台湾区之声1043
 https://live.ximalaya.com/radio-first-page-app/live/2912/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,中山电台快乐888
+#EXTINF:-1 group-title="广东",中山电台快乐888
 https://live.ximalaya.com/radio-first-page-app/live/1191/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,清远综合广播
+#EXTINF:-1 group-title="广东",清远综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1198/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,中山电台新锐967
+#EXTINF:-1 group-title="广东",中山电台新锐967
 https://live.ximalaya.com/radio-first-page-app/live/1220/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,开平电台
+#EXTINF:-1 group-title="广东",开平电台
 https://live.ximalaya.com/radio-first-page-app/live/2885/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,阳江综合广播
+#EXTINF:-1 group-title="广东",阳江综合广播
 https://live.ximalaya.com/radio-first-page-app/live/283/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,新会人民广播电台
+#EXTINF:-1 group-title="广东",新会人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2916/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,肇庆综合广播
+#EXTINF:-1 group-title="广东",肇庆综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2892/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,肇庆旅游之声
+#EXTINF:-1 group-title="广东",肇庆旅游之声
 https://live.ximalaya.com/radio-first-page-app/live/2893/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,高要综合广播
+#EXTINF:-1 group-title="广东",高要综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2870/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,深圳生活广播
+#EXTINF:-1 group-title="广东",深圳生活广播
 https://live.ximalaya.com/radio-first-page-app/live/265/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,广宁综合广播
+#EXTINF:-1 group-title="广东",广宁综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2603/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,阳江旅游环保广播
+#EXTINF:-1 group-title="广东",阳江旅游环保广播
 https://live.ximalaya.com/radio-first-page-app/live/1805/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,惠州音乐广播
+#EXTINF:-1 group-title="广东",惠州音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2845/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,梅州电台交通广播
+#EXTINF:-1 group-title="广东",梅州电台交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2888/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,增城电台
+#EXTINF:-1 group-title="广东",增城电台
 https://live.ximalaya.com/radio-first-page-app/live/2564/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,佛冈电台
+#EXTINF:-1 group-title="广东",佛冈电台
 https://live.ximalaya.com/radio-first-page-app/live/2742/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,客都之声
+#EXTINF:-1 group-title="广东",客都之声
 https://live.ximalaya.com/radio-first-page-app/live/1809/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,潮州交通音乐广播
+#EXTINF:-1 group-title="广东",潮州交通音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2915/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,从化电台流溪河之声
+#EXTINF:-1 group-title="广东",从化电台流溪河之声
 https://live.ximalaya.com/radio-first-page-app/live/2635/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,惠州综合广播
+#EXTINF:-1 group-title="广东",惠州综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2846/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,博罗电台
+#EXTINF:-1 group-title="广东",博罗电台
 https://live.ximalaya.com/radio-first-page-app/live/2848/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,茂名交通广播
+#EXTINF:-1 group-title="广东",茂名交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2754/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,惠州经济环保广播
+#EXTINF:-1 group-title="广东",惠州经济环保广播
 https://live.ximalaya.com/radio-first-page-app/live/2847/64.m3u8
-#EXTINF:-1 group-title="广东,#genre#" ,兴宁市综合广播
+#EXTINF:-1 group-title="广东",兴宁市综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2919/64.m3u8
-#EXTINF:-1 group-title="广西,#genre#" ,广西私家车930
+#EXTINF:-1 group-title="广西",广西私家车930
 https://live.ximalaya.com/radio-first-page-app/live/302/64.m3u8
-#EXTINF:-1 group-title="广西,#genre#" ,广西音乐台
+#EXTINF:-1 group-title="广西",广西音乐台
 https://live.ximalaya.com/radio-first-page-app/live/301/64.m3u8
-#EXTINF:-1 group-title="广西,#genre#" ,广西女主播电台
+#EXTINF:-1 group-title="广西",广西女主播电台
 https://live.ximalaya.com/radio-first-page-app/live/300/64.m3u8
-#EXTINF:-1 group-title="广西,#genre#" ,广西电台新闻910
+#EXTINF:-1 group-title="广西",广西电台新闻910
 https://live.ximalaya.com/radio-first-page-app/live/299/64.m3u8
-#EXTINF:-1 group-title="广西,#genre#" ,南宁经典1049
+#EXTINF:-1 group-title="广西",南宁经典1049
 https://live.ximalaya.com/radio-first-page-app/live/1316/64.m3u8
-#EXTINF:-1 group-title="广西,#genre#" ,广西交通台
+#EXTINF:-1 group-title="广西",广西交通台
 https://live.ximalaya.com/radio-first-page-app/live/304/64.m3u8
-#EXTINF:-1 group-title="广西,#genre#" ,南宁990新闻台
+#EXTINF:-1 group-title="广西",南宁990新闻台
 https://live.ximalaya.com/radio-first-page-app/live/305/64.m3u8
-#EXTINF:-1 group-title="广西,#genre#" ,广西北部湾之声
+#EXTINF:-1 group-title="广西",广西北部湾之声
 https://live.ximalaya.com/radio-first-page-app/live/303/64.m3u8
-#EXTINF:-1 group-title="广西,#genre#" ,贵港金曲1019
+#EXTINF:-1 group-title="广西",贵港金曲1019
 https://live.ximalaya.com/radio-first-page-app/live/2923/64.m3u8
-#EXTINF:-1 group-title="海南,#genre#" ,海口音乐广播
+#EXTINF:-1 group-title="海南",海口音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/1586/64.m3u8
-#EXTINF:-1 group-title="海南,#genre#" ,海口旅游交通广播
+#EXTINF:-1 group-title="海南",海口旅游交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2837/64.m3u8
-#EXTINF:-1 group-title="海南,#genre#" ,海南交通广播
+#EXTINF:-1 group-title="海南",海南交通广播
 https://live.ximalaya.com/radio-first-page-app/live/529/64.m3u8
-#EXTINF:-1 group-title="海南,#genre#" ,海口生活广播
+#EXTINF:-1 group-title="海南",海口生活广播
 https://live.ximalaya.com/radio-first-page-app/live/2654/64.m3u8
-#EXTINF:-1 group-title="海南,#genre#" ,三亚之声super radio
+#EXTINF:-1 group-title="海南",三亚之声super radio
 https://live.ximalaya.com/radio-first-page-app/live/2825/64.m3u8
-#EXTINF:-1 group-title="重庆,#genre#" ,938重庆私家车广播
+#EXTINF:-1 group-title="重庆",938重庆私家车广播
 https://live.ximalaya.com/radio-first-page-app/live/132/64.m3u8
-#EXTINF:-1 group-title="重庆,#genre#" ,重庆之声
+#EXTINF:-1 group-title="重庆",重庆之声
 https://live.ximalaya.com/radio-first-page-app/live/128/64.m3u8
-#EXTINF:-1 group-title="重庆,#genre#" ,重庆音乐广播
+#EXTINF:-1 group-title="重庆",重庆音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/131/64.m3u8
-#EXTINF:-1 group-title="重庆,#genre#" ,重庆交通广播
+#EXTINF:-1 group-title="重庆",重庆交通广播
 https://live.ximalaya.com/radio-first-page-app/live/130/64.m3u8
-#EXTINF:-1 group-title="重庆,#genre#" ,重庆经济广播
+#EXTINF:-1 group-title="重庆",重庆经济广播
 https://live.ximalaya.com/radio-first-page-app/live/129/64.m3u8
-#EXTINF:-1 group-title="重庆,#genre#" ,永川之声
+#EXTINF:-1 group-title="重庆",永川之声
 https://live.ximalaya.com/radio-first-page-app/live/2749/64.m3u8
-#EXTINF:-1 group-title="重庆,#genre#" ,綦江综合广播
+#EXTINF:-1 group-title="重庆",綦江综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2868/64.m3u8
-#EXTINF:-1 group-title="重庆,#genre#" ,重庆江津广播电台
+#EXTINF:-1 group-title="重庆",重庆江津广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2519/64.m3u8
-#EXTINF:-1 group-title="重庆,#genre#" ,大足综合广播
+#EXTINF:-1 group-title="重庆",大足综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2770/64.m3u8
-#EXTINF:-1 group-title="重庆,#genre#" ,重庆嘉陵之声
+#EXTINF:-1 group-title="重庆",重庆嘉陵之声
 https://live.ximalaya.com/radio-first-page-app/live/2411/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,四川交通广播
+#EXTINF:-1 group-title="四川",四川交通广播
 https://live.ximalaya.com/radio-first-page-app/live/752/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,成都新闻广播
+#EXTINF:-1 group-title="四川",成都新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/750/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,成都经济广播
+#EXTINF:-1 group-title="四川",成都经济广播
 https://live.ximalaya.com/radio-first-page-app/live/758/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,成都交通广播
+#EXTINF:-1 group-title="四川",成都交通广播
 https://live.ximalaya.com/radio-first-page-app/live/757/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,文化休闲广播
+#EXTINF:-1 group-title="四川",文化休闲广播
 https://live.ximalaya.com/radio-first-page-app/live/5/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,四川新闻广播
+#EXTINF:-1 group-title="四川",四川新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/2799/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,年代音乐88.9
+#EXTINF:-1 group-title="四川",年代音乐88.9
 https://live.ximalaya.com/radio-first-page-app/live/763/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,新声905
+#EXTINF:-1 group-title="四川",新声905
 https://live.ximalaya.com/radio-first-page-app/live/2891/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,德阳综合广播
+#EXTINF:-1 group-title="四川",德阳综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2502/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,四川民族广播
+#EXTINF:-1 group-title="四川",四川民族广播
 https://live.ximalaya.com/radio-first-page-app/live/753/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,绵阳交通广播
+#EXTINF:-1 group-title="四川",绵阳交通广播
 https://live.ximalaya.com/radio-first-page-app/live/766/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,绵阳新闻广播
+#EXTINF:-1 group-title="四川",绵阳新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/765/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,德阳市旌阳区人民广播电台
+#EXTINF:-1 group-title="四川",德阳市旌阳区人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2604/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,四川综合广播
+#EXTINF:-1 group-title="四川",四川综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2800/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,南充交通音乐广播
+#EXTINF:-1 group-title="四川",南充交通音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/772/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,四川财富生活广播
+#EXTINF:-1 group-title="四川",四川财富生活广播
 https://live.ximalaya.com/radio-first-page-app/live/1645/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,亚洲音乐成都FM96.5
+#EXTINF:-1 group-title="四川",亚洲音乐成都FM96.5
 https://live.ximalaya.com/radio-first-page-app/live/1003/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,岷江音乐广播
+#EXTINF:-1 group-title="四川",岷江音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2802/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,四川文艺广播
+#EXTINF:-1 group-title="四川",四川文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/2804/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,南充综合广播
+#EXTINF:-1 group-title="四川",南充综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1242/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,乐山综合广播
+#EXTINF:-1 group-title="四川",乐山综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2702/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,成都潮台
+#EXTINF:-1 group-title="四川",成都潮台
 https://live.ximalaya.com/radio-first-page-app/live/2781/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,绵阳音乐广播
+#EXTINF:-1 group-title="四川",绵阳音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/1243/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,空港之声
+#EXTINF:-1 group-title="四川",空港之声
 https://live.ximalaya.com/radio-first-page-app/live/2731/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,凉山综合广播
+#EXTINF:-1 group-title="四川",凉山综合广播
 https://live.ximalaya.com/radio-first-page-app/live/780/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,乐山音乐交通广播
+#EXTINF:-1 group-title="四川",乐山音乐交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2703/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,四川天府之声
+#EXTINF:-1 group-title="四川",四川天府之声
 https://live.ximalaya.com/radio-first-page-app/live/1646/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,苍溪人民广播电台
+#EXTINF:-1 group-title="四川",苍溪人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2906/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,德阳经济生活广播
+#EXTINF:-1 group-title="四川",德阳经济生活广播
 https://live.ximalaya.com/radio-first-page-app/live/1250/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,泸州新闻广播
+#EXTINF:-1 group-title="四川",泸州新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/785/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,眉山交通音乐广播
+#EXTINF:-1 group-title="四川",眉山交通音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2358/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,蓬安综合广播
+#EXTINF:-1 group-title="四川",蓬安综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2924/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,眉山综合广播
+#EXTINF:-1 group-title="四川",眉山综合广播
 https://live.ximalaya.com/radio-first-page-app/live/779/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,都江堰旅游生活广播
+#EXTINF:-1 group-title="四川",都江堰旅游生活广播
 https://live.ximalaya.com/radio-first-page-app/live/2360/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,泸州音乐广播
+#EXTINF:-1 group-title="四川",泸州音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/787/64.m3u8
-#EXTINF:-1 group-title="四川,#genre#" ,城市965
+#EXTINF:-1 group-title="四川",城市965
 https://live.ximalaya.com/radio-first-page-app/live/2724/64.m3u8
-#EXTINF:-1 group-title="贵州,#genre#" ,贵阳综合广播
+#EXTINF:-1 group-title="贵州",贵阳综合广播
 https://live.ximalaya.com/radio-first-page-app/live/365/64.m3u8
-#EXTINF:-1 group-title="贵州,#genre#" ,贵州交通广播
+#EXTINF:-1 group-title="贵州",贵州交通广播
 https://live.ximalaya.com/radio-first-page-app/live/362/64.m3u8
-#EXTINF:-1 group-title="贵州,#genre#" ,兴仁人民广播电台
+#EXTINF:-1 group-title="贵州",兴仁人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2789/64.m3u8
-#EXTINF:-1 group-title="贵州,#genre#" ,铜仁新闻综合广播
+#EXTINF:-1 group-title="贵州",铜仁新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2890/64.m3u8
-#EXTINF:-1 group-title="云南,#genre#" ,云南音乐广播
+#EXTINF:-1 group-title="云南",云南音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/904/64.m3u8
-#EXTINF:-1 group-title="云南,#genre#" ,昆明汽车广播
+#EXTINF:-1 group-title="云南",昆明汽车广播
 https://live.ximalaya.com/radio-first-page-app/live/906/64.m3u8
-#EXTINF:-1 group-title="云南,#genre#" ,昆明城市生活广播
+#EXTINF:-1 group-title="云南",昆明城市生活广播
 https://live.ximalaya.com/radio-first-page-app/live/908/64.m3u8
-#EXTINF:-1 group-title="云南,#genre#" ,昆明阳光频率
+#EXTINF:-1 group-title="云南",昆明阳光频率
 https://live.ximalaya.com/radio-first-page-app/live/910/64.m3u8
-#EXTINF:-1 group-title="云南,#genre#" ,芒市广播电台
+#EXTINF:-1 group-title="云南",芒市广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2350/64.m3u8
-#EXTINF:-1 group-title="云南,#genre#" ,曲靖综合广播
+#EXTINF:-1 group-title="云南",曲靖综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2920/64.m3u8
-#EXTINF:-1 group-title="陕西,#genre#" ,西安音乐广播
+#EXTINF:-1 group-title="陕西",西安音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/1442/64.m3u8
-#EXTINF:-1 group-title="陕西,#genre#" ,陕西音乐广播
+#EXTINF:-1 group-title="陕西",陕西音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/867/64.m3u8
-#EXTINF:-1 group-title="陕西,#genre#" ,陕西交通广播
+#EXTINF:-1 group-title="陕西",陕西交通广播
 https://live.ximalaya.com/radio-first-page-app/live/869/64.m3u8
-#EXTINF:-1 group-title="陕西,#genre#" ,宝鸡交通旅游广播
+#EXTINF:-1 group-title="陕西",宝鸡交通旅游广播
 https://live.ximalaya.com/radio-first-page-app/live/1704/64.m3u8
-#EXTINF:-1 group-title="陕西,#genre#" ,宝鸡综合广播
+#EXTINF:-1 group-title="陕西",宝鸡综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1701/64.m3u8
-#EXTINF:-1 group-title="陕西,#genre#" ,西安交通旅游广播
+#EXTINF:-1 group-title="陕西",西安交通旅游广播
 https://live.ximalaya.com/radio-first-page-app/live/1371/64.m3u8
-#EXTINF:-1 group-title="陕西,#genre#" ,陕西896汽车调频
+#EXTINF:-1 group-title="陕西",陕西896汽车调频
 https://live.ximalaya.com/radio-first-page-app/live/868/64.m3u8
-#EXTINF:-1 group-title="陕西,#genre#" ,陕西青少广播
+#EXTINF:-1 group-title="陕西",陕西青少广播
 https://live.ximalaya.com/radio-first-page-app/live/870/64.m3u8
-#EXTINF:-1 group-title="陕西,#genre#" ,延安新闻综合广播
+#EXTINF:-1 group-title="陕西",延安新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2699/64.m3u8
-#EXTINF:-1 group-title="陕西,#genre#" ,安康综合广播
+#EXTINF:-1 group-title="陕西",安康综合广播
 https://live.ximalaya.com/radio-first-page-app/live/880/64.m3u8
-#EXTINF:-1 group-title="陕西,#genre#" ,安康交通旅游音乐广播
+#EXTINF:-1 group-title="陕西",安康交通旅游音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/881/64.m3u8
-#EXTINF:-1 group-title="陕西,#genre#" ,咸阳人民广播电台
+#EXTINF:-1 group-title="陕西",咸阳人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/1595/64.m3u8
-#EXTINF:-1 group-title="陕西,#genre#" ,延安交通音乐广播
+#EXTINF:-1 group-title="陕西",延安交通音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2698/64.m3u8
-#EXTINF:-1 group-title="陕西,#genre#" ,彬州之声
+#EXTINF:-1 group-title="陕西",彬州之声
 https://live.ximalaya.com/radio-first-page-app/live/2675/64.m3u8
-#EXTINF:-1 group-title="甘肃,#genre#" ,甘肃交通广播
+#EXTINF:-1 group-title="甘肃",甘肃交通广播
 https://live.ximalaya.com/radio-first-page-app/live/289/64.m3u8
-#EXTINF:-1 group-title="甘肃,#genre#" ,河美靖远930
+#EXTINF:-1 group-title="甘肃",河美靖远930
 https://live.ximalaya.com/radio-first-page-app/live/2646/64.m3u8
-#EXTINF:-1 group-title="甘肃,#genre#" ,甘肃新闻综合
+#EXTINF:-1 group-title="甘肃",甘肃新闻综合
 https://live.ximalaya.com/radio-first-page-app/live/287/64.m3u8
-#EXTINF:-1 group-title="甘肃,#genre#" ,天水交通广播
+#EXTINF:-1 group-title="甘肃",天水交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2720/64.m3u8
-#EXTINF:-1 group-title="甘肃,#genre#" ,陇南综合广播
+#EXTINF:-1 group-title="甘肃",陇南综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2656/64.m3u8
-#EXTINF:-1 group-title="甘肃,#genre#" ,天水新闻综合广播
+#EXTINF:-1 group-title="甘肃",天水新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2048/64.m3u8
-#EXTINF:-1 group-title="甘肃,#genre#" ,张掖新闻综合广播
+#EXTINF:-1 group-title="甘肃",张掖新闻综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2108/64.m3u8
-#EXTINF:-1 group-title="甘肃,#genre#" ,天水音乐文艺广播
+#EXTINF:-1 group-title="甘肃",天水音乐文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/2049/64.m3u8
-#EXTINF:-1 group-title="甘肃,#genre#" ,定西交通广播
+#EXTINF:-1 group-title="甘肃",定西交通广播
 https://live.ximalaya.com/radio-first-page-app/live/2854/64.m3u8
-#EXTINF:-1 group-title="宁夏,#genre#" ,宁夏音乐广播
+#EXTINF:-1 group-title="宁夏",宁夏音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/1878/64.m3u8
-#EXTINF:-1 group-title="宁夏,#genre#" ,宁夏都市广播
+#EXTINF:-1 group-title="宁夏",宁夏都市广播
 https://live.ximalaya.com/radio-first-page-app/live/1071/64.m3u8
-#EXTINF:-1 group-title="宁夏,#genre#" ,975流行音乐广播
+#EXTINF:-1 group-title="宁夏",975流行音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2761/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,新疆交通广播
+#EXTINF:-1 group-title="新疆",新疆交通广播
 https://live.ximalaya.com/radio-first-page-app/live/987/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,新疆兵团之声
+#EXTINF:-1 group-title="新疆",新疆兵团之声
 https://live.ximalaya.com/radio-first-page-app/live/1838/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,喀什综合广播
+#EXTINF:-1 group-title="新疆",喀什综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2773/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,阿克苏汉语综合广播
+#EXTINF:-1 group-title="新疆",阿克苏汉语综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2681/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,阿克苏维吾尔语综合广播
+#EXTINF:-1 group-title="新疆",阿克苏维吾尔语综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2682/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,新疆汉语新闻广播
+#EXTINF:-1 group-title="新疆",新疆汉语新闻广播
 https://live.ximalaya.com/radio-first-page-app/live/1828/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,新疆929文化旅游广播
+#EXTINF:-1 group-title="新疆",新疆929文化旅游广播
 https://live.ximalaya.com/radio-first-page-app/live/988/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,新疆维吾尔语交通文艺广播
+#EXTINF:-1 group-title="新疆",新疆维吾尔语交通文艺广播
 https://live.ximalaya.com/radio-first-page-app/live/1834/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,新疆维语综合广播
+#EXTINF:-1 group-title="新疆",新疆维语综合广播
 https://live.ximalaya.com/radio-first-page-app/live/997/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,阿克苏市1029
+#EXTINF:-1 group-title="新疆",阿克苏市1029
 https://live.ximalaya.com/radio-first-page-app/live/2902/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,990新闻音乐广播
+#EXTINF:-1 group-title="新疆",990新闻音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/2816/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,新疆1039音乐广播
+#EXTINF:-1 group-title="新疆",新疆1039音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/1364/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,新疆哈萨克语广播
+#EXTINF:-1 group-title="新疆",新疆哈萨克语广播
 https://live.ximalaya.com/radio-first-page-app/live/1836/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,新疆蒙古语广播
+#EXTINF:-1 group-title="新疆",新疆蒙古语广播
 https://live.ximalaya.com/radio-first-page-app/live/1835/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,克拉玛依人民广播电台
+#EXTINF:-1 group-title="新疆",克拉玛依人民广播电台
 https://live.ximalaya.com/radio-first-page-app/live/2559/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,新疆柯尔克孜语综合广播
+#EXTINF:-1 group-title="新疆",新疆柯尔克孜语综合广播
 https://live.ximalaya.com/radio-first-page-app/live/1692/64.m3u8
-#EXTINF:-1 group-title="新疆,#genre#" ,托峰明珠交通音乐
+#EXTINF:-1 group-title="新疆",托峰明珠交通音乐
 https://live.ximalaya.com/radio-first-page-app/live/2362/64.m3u8
-#EXTINF:-1 group-title="网络台,#genre#" ,清晨音乐台
+#EXTINF:-1 group-title="网络台",清晨音乐台
 https://live.ximalaya.com/radio-first-page-app/live/1011/64.m3u8
-#EXTINF:-1 group-title="网络台,#genre#" ,AsiaFM亚洲粤语台
+#EXTINF:-1 group-title="网络台",AsiaFM亚洲粤语台
 https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8
-#EXTINF:-1 group-title="网络台,#genre#" ,AsiaFM HD音乐台
+#EXTINF:-1 group-title="网络台",AsiaFM HD音乐台
 https://live.ximalaya.com/radio-first-page-app/live/1427/64.m3u8
-#EXTINF:-1 group-title="网络台,#genre#" ,AsiaFM亚洲经典台
+#EXTINF:-1 group-title="网络台",AsiaFM亚洲经典台
 https://live.ximalaya.com/radio-first-page-app/live/1005/64.m3u8
-#EXTINF:-1 group-title="网络台,#genre#" ,AsiaFM亚洲天空台
+#EXTINF:-1 group-title="网络台",AsiaFM亚洲天空台
 https://live.ximalaya.com/radio-first-page-app/live/2152/64.m3u8
-#EXTINF:-1 group-title="网络台,#genre#" ,AsiaFM亚洲音乐台
+#EXTINF:-1 group-title="网络台",AsiaFM亚洲音乐台
 https://live.ximalaya.com/radio-first-page-app/live/764/64.m3u8
-#EXTINF:-1 group-title="网络台,#genre#" ,AsiaFM亚洲热歌台
+#EXTINF:-1 group-title="网络台",AsiaFM亚洲热歌台
 https://live.ximalaya.com/radio-first-page-app/live/1908/64.m3u8
-#EXTINF:-1 group-title="网络台,#genre#" ,听梦想FM
+#EXTINF:-1 group-title="网络台",听梦想FM
 https://live.ximalaya.com/radio-first-page-app/live/1015/64.m3u8
-#EXTINF:-1 group-title="网络台,#genre#" ,Big Big MIX
+#EXTINF:-1 group-title="网络台",Big Big MIX
 https://live.ximalaya.com/radio-first-page-app/live/1027/64.m3u8
-#EXTINF:-1 group-title="网络台,#genre#" ,卷卷猫电台
+#EXTINF:-1 group-title="网络台",卷卷猫电台
 https://live.ximalaya.com/radio-first-page-app/live/2690/64.m3u8
-#EXTINF:-1 group-title="网络台,#genre#" ,蝠声综合频道
+#EXTINF:-1 group-title="网络台",蝠声综合频道
 https://live.ximalaya.com/radio-first-page-app/live/1428/64.m3u8
+
