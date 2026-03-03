@@ -5,8 +5,8 @@ CCTV1,webview://https://tv.cctv.com/live/cctv1/
 CCTV2,webview://https://tv.cctv.com/live/cctv2/
 CCTV3,webview://https://tv.cctv.com/live/cctv3/
 CCTV4,webview://https://tv.cctv.com/live/cctv4/
-CCTV4美,webview://https://tv.cctv.com/live/cctvamerica/
-CCTV4欧,webview://https://tv.cctv.com/live/cctveurope/
+CCTV4AME,webview://https://tv.cctv.com/live/cctvamerica/
+CCTV4EUO,webview://https://tv.cctv.com/live/cctveurope/
 CCTV5,webview://https://tv.cctv.com/live/cctv5/
 CCTV5+,webview://https://tv.cctv.com/live/cctv5plus/
 CCTV6,webview://https://tv.cctv.com/live/cctv6/
@@ -31,8 +31,8 @@ CCTV1,webview://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://www.yangshipin.cn/tv/home?pid=600001800
 CCTV3,webview://https://www.yangshipin.cn/tv/home?pid=600001801
 CCTV4,webview://https://www.yangshipin.cn/tv/home?pid=600001814
-CCTV4欧洲,webview://https://tv.cctv.com/live/cctveurope/
-CCTV4美洲,webview://https://tv.cctv.com/live/cctvamerica/
+CCTV4EUO,webview://https://tv.cctv.com/live/cctveurope/
+CCTV4AME,webview://https://tv.cctv.com/live/cctvamerica/
 CCTV5,webview://https://www.yangshipin.cn/tv/home?pid=600001818
 CCTV5+,webview://https://www.yangshipin.cn/tv/home?pid=600001817
 CCTV6,webview://https://www.yangshipin.cn/tv/home?pid=600108442
