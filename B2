@@ -991,4 +991,14 @@ TV BRICS Chinese,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 THLC(VN),https://live.baolaocai.vn/channel2/stream.m3u8
+QAZAQSTAN,https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+ABAITV,https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+BALAPANTV,https://qazaqstantv-stream.qazcdn.com/international/balapan/playlist.m3u8
+МИРTV,https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
+МИР24TV,https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+ЗвездаTV,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+O'zbekiston1,https://stream1-zorplay.platform24.tv/hlsjwt/a1636be14985f79dd9dd1c012cf73691ca4abbce-676-0-zor641693-5-628273541-1777433221-e128-a6hX3yL-3slB2p6RnT1W9Q8fN0edeZ3lpzomduDYu1s/index.m3u8
+BIZ TV,https://stream1-zorplay.platform24.tv/mbrjwt/fd7f48e406fb12420bf5be97d1682d1d0df47d65-8679-0-zor834927-5-622527524-1777433385-e128-ns7x1zU-APncrhM8jYjRK1A1Opa6NEf5pOfBCCRUkGQ/index.m3u8
+Sevimli TV,https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
+O`zbekiston 1,https://stream1-zorplay.platform24.tv/mbrjwt/fd7f48e406fb12420bf5be97d1682d1d0df47d65-676-0-zor834927-5-622527524-1777433330-e128-dccdjNwxTGA4X9aqjfFfK364VzwWJ1MB1VNJ_JgIxUM/index.m3u8
 
