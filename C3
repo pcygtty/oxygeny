@@ -234,6 +234,9 @@ FM891吴江电台,https://ctlive2.wjdaily.com/wjtv/fm891.m3u8
 烟台新闻综合广播,https://live.yantaitv.cn/live/0fe0ad6f8d4b4df89d7df38d72a1691e/2df156ca38fa49cb92a0f54e8c408603.m3u8
 威海新闻综合广播,https://v.whnews.cn/hls1/ZwH3fCNJl8.m3u8
 威海音乐广播,https://v.whnews.cn/hls1/kV2209AB37.m3u8
+临沂交通旅游广播,https://m3u8-channel.lytv.tv/nmip-media/audiolive/audio120987/playlist.m3u8
+临沂综合广播,https://m3u8-channel.lytv.tv/nmip-media/audiolive/audio119985/playlist.m3u8
+临沂经济广播,https://m3u8-channel.lytv.tv/nmip-media/audiolive/audio122068/playlist.m3u8
 新疆,#genre#
 兵团综合广播FM88.2,https://liveout.btzx.com.cn/x2q67n/0aw2u8.m3u8
 克拉玛依FM92.6,https://klmysjtzb.rcsxzx.com/hls/k926.m3u8
