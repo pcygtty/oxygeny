@@ -510,6 +510,8 @@ M山东,#genre#
 营口新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000278
 菏泽新闻综合频道,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 HZTV-2,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+临沂新闻综合频道,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
+临沂经济生活频道,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 M山西,#genre#
 定襄综合频道,https://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
 汾西综合频道,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
