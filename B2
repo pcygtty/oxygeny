@@ -900,8 +900,6 @@ M青海,#genre#
 M四川,#genre#
 宝兴县电视台,http://tv.yunxya.com/channellive/baoxing.flv
 苍溪综合频道,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel107937/playlist.m3u8
-朝天新闻综合,https://m3u8.channel.dzsm.com:443/nmip-media/channellive/channel104601/playlist.m3u8
-朝天综合频道,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 达川新闻综合频道,https://livepull.dachuan.org.cn/dcgc/dcgc1766798262.m3u8
 达州通川频道,http://file.dzrm.cn/nmip-media/channellive/channel105011/playlist.m3u8
 达州文化生活频道,https://file.dzrm.cn/nmip-media/channellive/channel104727/playlist.m3u8
@@ -915,14 +913,19 @@ M四川,#genre#
 广安文旅乡村频道,https://live1.gatv.com.cn:90/live/GGPD.m3u8
 广安新闻综合频道,https://live1.gatv.com.cn:90/live/XWZH.m3u8
 广元文化生活频道,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
-广元综合频道,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
+广元新闻综合频道,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
+巴中综合,https://livetv.bzitv.cn/live/260315BZTVlive1001/hls.m3u8
+巴中文旅生活,https://livetv.bzitv.cn/live/260613BZTVlive1002/hls.m3u8
+朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
+旺苍综合,https://channel.wcrmt.cn/nmip-media/channellive/channel105268/playlist.m3u8
+剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+青川新闻综合,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 汉源综合频道,http://tv.yunxya.com/channellive/hanyuan.flv
 黑水县电视台,http://live.schstv.com:90/live/xwzh.m3u8
 黑水新闻综合,http://live.schstv.com:90/live/xwzh.m3u8
 会东县电视台,http://exfile.schdxww.com/nmip-media/channellive/channel100055/playlist.m3u8
 夹江新闻综合频道,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8
 犍为综合频道,https://p8.vzan.com/slowlive/230559508552681163/live.m3u8
-剑阁综合频道,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 金川综合新闻频道,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 金口河综合频道,http://pili-live-hls.227.i2863.com/i2863-227/live_227_687291.m3u8
 井研新闻综合频道,https://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
@@ -948,7 +951,6 @@ M四川,#genre#
 内江综合频道,https://njzb.scnj.tv/hls_njtv_direct/1.m3u8
 平昌综合频道,http://dcpull.sctvcloud.com/live/9d774482018e1000fec02f9500000000/playlist.m3u8
 普格新闻综合频道,http://171.215.30.43:8086/0.m3u8
-青川综合频道,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 渠县新闻综合频道,http://183.222.248.153:81/hls/cfp2p8m3.m3u8
 三台电视1套,http://125.65.94.91:12351/live
 什邡新闻综合频道,http://live.sfrmt.com:85/live/zhpd.m3u8
@@ -958,7 +960,6 @@ M四川,#genre#
 四川科教频道,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 松潘县电视台,http://live.spccmc.com:90/live/spxwzh.m3u8
 通江新闻综合,http://dcpull.sctvcloud.com/live/04ea69fa018910006ae9ef0600000000/playlist.m3u8
-旺苍综合频道,http://channel.wcrmt.cn/nmip-media/channellive/channel105268/playlist.m3u8
 威远新闻综合频道,https://wy-live-pull.thecover.cn/rmtlive/fmzb1710746907096.m3u8
 汶川新闻综合频道,http://live.iwcmt.cn:90/live/zhxw.m3u8
 西昌综合频道,http://xcfb.screx.com.cn:18085/hlsnew1/channel1.m3u8
