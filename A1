@@ -180,10 +180,7 @@ W云南,#genre#
 保山隆阳电视台,webview://https://www.lyqrmt.com/article/14/5.html
 昆明教育电视台,webview://https://kmjy.kmetv.com/application/tenma01ds_tvradio/view/web/#/
 德宏综合,webview://https://www.edehong.com/#zhibo
-云南少儿,webview://https://www.yntv.cn/live.html?name=yunnanshaoer
-云南卫视,webview://https://www.yntv.cn/live.html?name=yunnanweishi
-云南都市,webview://https://www.yntv.cn/live.html?name=yunnandushi
-云南国际,webview://https://www.yntv.cn/live.html?name=yunnanguoji
+云南卫视,webview://https://www.yntv.cn/live.html
 迪庆综合,webview://https://www.xgll.com.cn/cityMini/site/tv
 普洱电视台,webview://https://www.puerw.cn/col1992.html
 文山新闻综合频道,webview://https://wswww.wsnews.com.cn/wsnews_st/
@@ -358,9 +355,6 @@ W江西,#genre#
 南昌新闻综合,webview://https://www.nctv.net.cn/live?channel=1
 南昌文旅,webview://https://www.nctv.net.cn/live?channel=2
 南昌资讯,webview://https://www.nctv.net.cn/live?channel=3
-九江3,webview://https://app.jjntv.cn/webDetails/live/tvLive?tenantId=314&id=26
-九江2,webview://https://app.jjntv.cn/webDetails/live/tvLive?tenantId=314&id=27
-九江1,webview://https://app.jjntv.cn/webDetails/live/tvLive?tenantId=314&id=29
 鹰潭综合频道,webview://https://web.guangdianyun.tv/tv/?id=2574&uin=3313
 吉安新闻综合,webview://https://www.jarmt.cn/19/19qysj/kds/pdzb/index.shtml
 宜春综合,webview://https://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=610897459610271744
