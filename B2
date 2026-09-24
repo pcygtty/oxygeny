@@ -113,6 +113,9 @@ M河北,#genre#
 衡水新闻综合,http://hls.hsrtv.cn/live/hshstv1.m3u8
 隆化综合频道,https://jwcdnqx.hebyun.com.cn/live/lhtv/1500k/tzwj_video.m3u8
 滦南综合频道,http://8.130.49.89/live/lntv1.m3u8
+双滦新闻综合,https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+滦南影视,http://8.130.49.89/live/lntv2.m3u8
 南和影视频道,https://jwcdnqx.hebyun.com.cn/live/NHTV2/1500k/tzwj_video.m3u8
 南和综合频道,https://jwcdnqx.hebyun.com.cn/live/NHTV1/1500k/tzwj_video.m3u8
 平泉影视频道,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
@@ -330,6 +333,7 @@ M湖北,#genre#
 恩施文旅,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=4857760464-0-0-ecabcbf26d39dc20cde584db2fa2a053&extra_key=D1dJezG95YTkYytoe8tr2Qhf-jhFFJmJpij9JNzLnfjYgxE5Q69rjZT1b2VrOxeb2zvhRo107e0Ze_h5agVjcLhNxl4RzjBShtdz-pQKUqaNbHnJMUJaS637QCoHNkKlJAb5i0lkR8MlxmIB6LIGojFm8kqvpZp_pI7SG10olDg
 黄陂综合频道,http://livehprm.hptv.com.cn/zbpd/sd/live.m3u8
 荆门教育频道,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 麻城综合频道,https://video.yscxy.cn:8888/mctv1.m3u8
 潜江综合频道,https://p2hs.vzan.com/slowlive/481008854192202056/live.m3u8
 十堰经济,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
@@ -528,7 +532,15 @@ HZTV-2,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
 茌平综合,https://jsylivealone302.iqilu.com/live/chiping_tv01/index.m3u8
 临沂新闻综合频道,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 临沂经济生活频道,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
+山东教育卫视,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+嘉祥综合,https://jsylivealone302.iqilu.com/jiaxiang/jiaxiang_tv01.m3u8
+嘉祥生活,https://jsylivealone302.iqilu.com/jiaxiang/jiaxiang_tv02.m3u8
 M山西,#genre#
+太原新闻综合,https://tytv-hls.sxtygdy.com/49VAfrw/500/74oe3V0.m3u8
+太原都市,https://tytv-hls.sxtygdy.com/u8BmT6h/500/42ru3B0.m3u8
+太原社教法制,https://tytv-hls.sxtygdy.com/phsry3e/500/e19p3s0.m3u8
+太原生活,https://tytv-hls.sxtygdy.com/i88rmGU/500/r14i380.m3u8
+太原教育,https://tytv-hls.sxtygdy.com/g4XtSCF/500/v10g3X0.m3u8
 定襄综合频道,https://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
 汾西综合频道,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
 古县电视台,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8
