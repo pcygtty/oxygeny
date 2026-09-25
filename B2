@@ -88,6 +88,8 @@ M广西,#genre#
 藤县综合,http://play.txdst.cn/live/txtv.m3u8
 梧州教育生活频道,http://live.wuzhourm.cn/jysh/index.m3u8
 梧州新闻综合频道,http://live.wuzhourm.cn/xwzh/index.m3u8
+桂林科教,rtmp://mchb.gltvs.com/live/TVkj
+桂林新闻综合,rtmp://mchb.gltvs.com/live/TVxw
 M贵州,#genre#
 安顺公共频道,http://hplayer1.juyun.tv/camera/116587130.m3u8
 安顺新闻频道,http://hplayer1.juyun.tv/camera/133635181.m3u8
@@ -815,6 +817,8 @@ M陕西,#genre#
 榆林文化旅游频道,https://hplayer1.juyun.tv/camera/186022194.m3u8
 榆林综合频道,https://hplayer1.juyun.tv/camera/186023110.m3u8
 商洛综合频道,https://player4.juyun.tv/camera/171844138.m3u8
+安康民生频道,https://miku-live-hls.akrt.cn/akapptv/ggpdhd.m3u8
+安康综合频道,https://miku-live-hls.akrt.cn/akapptv/zhpdhd.m3u8
 M海南,#genre#
 海口城乡经济频道,https://live2.hkbtv.cn/live/tv2503.m3u8
 海口综合频道,https://live2.hkbtv.cn/live/tv2501.m3u8
