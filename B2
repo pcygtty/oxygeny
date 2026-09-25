@@ -95,6 +95,7 @@ M贵州,#genre#
 黔南综合频道,http://tvfile.qntv.net/nmip-media/channellive/channel108689/playlist.m3u8
 黔东南综合频道,https://p8.vzan.com/slowlive/318019210178764204/live.m3u8
 瓮安县电视台,https://xcyoss1.xinhuaxmt.com/record/zbcb/1614588473291223_796.mp4
+凯里电视台,https://p8.vzan.com/slowlive/298070663345038269/live.m3u8
 M河北,#genre#
 石家庄文旅体育,https://mzb.sjzntv.cn/hls/live/zhibo5_hd.m3u8
 石家庄新闻综合,https://live.sjzntv.cn/rftlive/809631088acd4294b547de1b96bb0001/809631088acd4294b547de1b96bb0001.m3u8
@@ -340,6 +341,7 @@ M湖北,#genre#
 宜昌文旅,https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 宜昌综合,https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 M吉林,#genre#
+吉林纪录片,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/da805d8d77a24db8aaa62328eb6d874e/index.m3u8
 白城新闻综合,http://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 白山旅游生活频道,http://stream8.jlntv.cn/baishan2/playlist.m3u8
 白山新闻综合,http://stream2.jlntv.cn/baishan1/sd/live.m3u8
@@ -401,6 +403,24 @@ M吉林,#genre#
 长白山电视台,http://stream8.jlntv.cn/cbstv/playlist.m3u8
 长白新闻综合频道,https://hplayer1.juyun.tv/camera/11347146.m3u8
 镇赉综合频道,http://stream6.jlntv.cn/zl/playlist.m3u8
+永吉综合,http://stream10.jlntv.cn/yongji/playlist.m3u8
+伊通综合,http://stream6.jlntv.cn/yt/playlist.m3u8
+东丰综合,http://stream5.jlntv.cn/df/playlist.m3u8
+洮南综合,http://stream5.jlntv.cn/tn/playlist.m3u8
+桦甸综合,http://stream10.jlntv.cn/huadian/playlist.m3u8
+汪清综合,http://stream5.jlntv.cn/wq/playlist.m3u8
+辉南综合,http://stream5.jlntv.cn/hn/playlist.m3u8
+双辽综合,http://stream5.jlntv.cn/sl/playlist.m3u8
+公主岭综合,http://stream5.jlntv.cn/gzl/playlist.m3u8
+扶余综合,http://stream6.jlntv.cn/fy/playlist.m3u8
+龙井综合,http://stream8.jlntv.cn/ljtv/playlist.m3u8
+长白山综合,http://stream8.jlntv.cn/cbstv/sd/live.m3u8
+通化县综合,http://stream5.jlntv.cn/thx/playlist.m3u8
+九台综合,http://stream10.jlntv.cn/jiutaitv/playlist.m3u8
+柳河综合,http://stream5.jlntv.cn/lh/playlist.m3u8
+江源综合,http://stream10.jlntv.cn/jiangyuantv/playlist.m3u8
+磐石综合,http://stream5.jlntv.cn/ps/playlist.m3u8
+德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
 M江苏,#genre#
 常熟综合频道,http://cstvplay.21cs.cn/kcsapp/cstv1.m3u8
 丹阳新闻频道,https://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
@@ -502,6 +522,7 @@ M辽宁,#genre#
 大连文体频道,http://live.dltv.cn/hxT7Fc3/500/m1ohx47.m3u8
 大连生活频道,http://live.dltv.cn/JzcFkF4/500/624hz4F.m3u8
 大连新闻综合频道,http://live.dltv.cn/tcb3IB5/500/327hc43.m3u8
+铁岭新闻综合,https://live-play-tlrb.newaircloud.com/tlrb/3dc36395-a7a3-4855-9bd6-8d223cf9ac30.m3u8
 M山东,#genre#
 菏泽新闻频道,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
 济宁公共频道,https://srs.jnnews.tv/video/JTV-3/index.m3u8
@@ -714,6 +735,7 @@ M重庆,#genre#
 酉阳综合频道,https://yypull.cbg.cn/applive/youytv01/playlist.m3u8
 云阳综合频道,https://live.yunyangwang.com/live/dszb.m3u8
 忠县综合频道,https://yypull.cbg.cn/applive/zxtv2/playlist.m3u8
+大足综合,https://yypull.cbg.cn/applive/dazulive01/playlist.m3u8
 重庆新闻频道,https://sjlivecdn.cbg.cn/202601102219/c2b99d0c9d4c9dfe4b6041ff3acf8395/app_2/_definst_/ls_3.stream/chunklist.m3u8
 MCEC,#genre#
 cec汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
@@ -940,6 +962,9 @@ M云南,#genre#
 M青海,#genre#
 西宁新闻综合频道,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 西宁生活服务频道,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+贵南电视台,https://hls-qhmh.lanzhousobey.cn/qhmh/qhgn.m3u8
+民和电视台,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+门源电视台,https://hls-qhmh.lanzhousobey.cn/qhmh/myds.m3u8
 M四川,#genre#
 四川科教频道,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 宝兴县电视台,http://tv.yunxya.com/channellive/baoxing.flv
@@ -1058,4 +1083,5 @@ THLC(VN),https://live.baolaocai.vn/channel2/stream.m3u8
 ASTROAWANI,https://d37ey7ubht2hh2.cloudfront.net/out/v1/2d4a3d04aa404f3f8860da4a3ae25817/index_2.m3u8
 TRT Muzik,https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 TRT Muzik (720p),https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
