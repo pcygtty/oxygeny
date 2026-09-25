@@ -1077,15 +1077,19 @@ M西藏,#genre#
 察隅电视台,http://file.chayutv.com/nmip-media/channellive/channel105276/playlist.m3u8
 M其他,#genre#
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA Insider,https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 TV BRICS Chinese,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 华藏卫视,https://vod.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-THLC(VN),https://live.baolaocai.vn/channel2/stream.m3u8
+THLC,https://live.baolaocai.vn/channel2/stream.m3u8
 ASTROAWANI,https://d37ey7ubht2hh2.cloudfront.net/out/v1/2d4a3d04aa404f3f8860da4a3ae25817/index_2.m3u8
 TRT Muzik,https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 TRT Muzik (720p),https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+ADB(PT),https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
+PTC Music(IN),https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+
 
