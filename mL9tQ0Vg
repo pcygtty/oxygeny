@@ -3,6 +3,16 @@
 https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1 group-title="CNR" ,经济之声
 https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 group-title="北京" ,北京新闻广播FM94.5
+https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
+#EXTINF:-1 group-title="北京" ,北京文艺广播
+https://brtv-radiolive.rbc.cn/alive/fm876.m3u8
+#EXTINF:-1 group-title="北京" ,北京音乐广播
+https://brtv-radiolive.rbc.cn/alive/fm974.m3u8
+#EXTINF:-1 group-title="北京" ,北京交通广播FM103.9
+https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
+#EXTINF:-1 group-title="北京" ,北京城市广播副中心之声
+https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
 #EXTINF:-1 group-title="河南" ,河南新闻广播
 https://stream.hndt.com/live/xinwen/playlist.m3u8
 #EXTINF:-1 group-title="河南" ,河南经济广播
@@ -35,6 +45,8 @@ https://zhpull.dxhmt.cn/anyang/95952a5f83af4459935ad2b80bc08055/playlist.m3u8
 https://zhpull.dxhmt.cn/anyang/87c955d075f14e8ba73daba83885676f/playlist.m3u8
 #EXTINF:-1 group-title="河南" ,安阳生活广播
 https://zhpull.dxhmt.cn/anyang/fcd486a86c244f8285857a204fdf00e5/playlist.m3u8
+#EXTINF:-1 group-title="河南" ,三门峡综合广播
+https://stream.hndt.com/city/sanmenxia104/playlist.m3u8
 #EXTINF:-1 group-title="河北" ,河北综合广播
 https://radio.pull.hebtv.com/live/hebzh.m3u8
 #EXTINF:-1 group-title="河北" ,河北新闻广播
@@ -247,6 +259,12 @@ https://srs.iyb983.cn/audio/FM1059/index.m3u8
 https://srs.iyb983.cn/audio/FM1046/index.m3u8
 #EXTINF:-1 group-title="吉林" ,延边新闻广播
 https://srs.iyb983.cn/audio/FM983/index.m3u8
+#EXTINF:-1 group-title="吉林" ,通化综合广播
+https://live-master.jlntv.cn/thxw1/sd/live.m3u8
+#EXTINF:-1 group-title="吉林" ,通化交通文艺广播
+https://live-master.jlntv.cn/thjt1/sd/live.m3u8
+#EXTINF:-1 group-title="吉林" ,通化大众生活广播
+https://live-master.jlntv.cn/thshnew/sd/live.m3u8
 #EXTINF:-1 group-title="江苏" ,江苏新闻广播
 https://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8
 #EXTINF:-1 group-title="江苏" ,江苏新闻综合广播
@@ -347,6 +365,24 @@ https://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8
 https://l.cztvcloud.com/channels/lantian/SXshengzhouaud/128k.m3u8
 #EXTINF:-1 group-title="西藏" ,拉萨综合广播
 https://tvfile.lasatv.cn/nmip-media/audiolive/audio102594/playlist.m3u8
+#EXTINF:-1 group-title="内蒙古" ,内蒙古新闻综合广播
+https://play1-qk.nmtv.cn/live/2305general.m3u8
+#EXTINF:-1 group-title="内蒙古" ,内蒙古交通之声
+https://play1-qk.nmtv.cn/live/2307general.m3u8
+#EXTINF:-1 group-title="内蒙古" ,内蒙古文艺之声
+https://play1-qk.nmtv.cn/live/2308general.m3u8
+#EXTINF:-1 group-title="内蒙古" ,内蒙古城乡生活
+https://play1-qk.nmtv.cn/live/2312general.m3u8
+#EXTINF:-1 group-title="内蒙古" ,内蒙古蒙古语广播
+https://play1-qk.nmtv.cn/live/2310general.m3u8
+#EXTINF:-1 group-title="内蒙古" ,内蒙古草原之声
+https://play1-qk.nmtv.cn/live/2309general.m3u8
+#EXTINF:-1 group-title="内蒙古" ,呼伦贝尔汉语广播
+https://play1-qk.nmtv.cn/nmtv/2947311general.m3u8
+#EXTINF:-1 group-title="内蒙古" ,锡林郭勒汉语广播
+https://play1-qk.nmtv.cn/nmtv/2947310general.m3u8
+#EXTINF:-1 group-title="内蒙古" ,阿拉善汉语广播
+https://play1-qk.nmtv.cn/nmtv/2947307general.m3u8
 #EXTINF:-1 group-title="内蒙古" ,乌海新闻综合广播
 https://live.wuhainews.org.cn/aac_zhgb/sd/live.m3u8
 #EXTINF:-1 group-title="内蒙古" ,鄂尔多斯新闻综合广播
@@ -387,6 +423,14 @@ https://tmpstream.hyrtv.cn/lygb/sd/live.m3u8
 http://tideweblive.jmtv.cn/lsdream/141Ldor/64/p4idz4L.m3u8
 #EXTINF:-1 group-title="广东" ,江门FM93.3
 http://tideweblive.jmtv.cn/lsdream/kenj3I1/64/07ie4jm.m3u8
+#EXTINF:-1 group-title="广东" ,佛山电台FM92.4
+https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_42_audio.m3u8
+#EXTINF:-1 group-title="广东" ,佛山电台FM94.6
+https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_46_audio.m3u8
+#EXTINF:-1 group-title="广东" ,佛山电台FM90.1
+https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_44_audio.m3u8
+#EXTINF:-1 group-title="广东" ,肇庆综合广播
+https://zqvlivestream.xjrb.com/zqLiveSlow/211.m3u8
 #EXTINF:-1 group-title="山东" ,青岛新闻综合广播
 https://hlspull.qtv.com.cn/gwepn2sr/channel/7db3153ab20aad73e3bab1e46bf79926/index.m3u8
 #EXTINF:-1 group-title="山东" ,青岛经济广播
