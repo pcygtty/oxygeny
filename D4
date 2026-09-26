@@ -170,6 +170,7 @@
 画境绵竹,webview://https://web.guangdianyun.tv/tv/2109?uin=3277
 营山县慢直播,https://yslive.ysxtv.cn/live1014/ch4.m3u8?auth_key=1760426141-0-0-9e813698ea91d197f60ef6893a5d19d4
 中国大熊猫保护研究中心,https://p2.vzan.com/slowlive/899413609132654533/live.m3u8
+四姑娘山,webview://https://www.sgnsgeopark.cn/live/live1.html
 内蒙古,#genre#
 阿尔山湖心岛北纬47度酒吧,https://play1-qk.nmtv.cn/nmtv/9413livestream.m3u8
 山西,#genre#
@@ -193,6 +194,7 @@
 桐乡濮院古镇,webview://https://web.guangdianyun.tv/tv/3339?uin=1043
 京杭大运河桐乡段,webview://https://web.guangdianyun.tv/tv/3345?uin=1043
 富春江一桥,webview://https://web.guangdianyun.tv/tv/3582?uin=1163
+西湖网红椅,webview://https://tidenews.com.cn/live.html?id=2758120&native=1&isVertical=0
 桐庐春江两岸,webview://https://web.guangdianyun.tv/tv/3583?uin=1163
 桐乡乌镇白莲塔,webview://https://web.guangdianyun.tv/tv/3360?uin=1043
 桐乡凤凰湖,webview://https://web.guangdianyun.tv/tv/3346?uin=1043
@@ -224,6 +226,42 @@
 衡水武强音乐公园,webview://https://web.guangdianyun.tv/tv/3672?uin=1425
 湖南,#genre#
 岳阳楼汴河街景区,webview://https://web.guangdianyun.tv/tv/2566?uin=2193
+山东,#genre#
+济南百花洲,webview://https://app.livejinan.cn/live/merge/detail/720?ajn=1
+安徽,#genre#
+池州石台仙寓山景区W,webview://https://mzb.ctseelink.cn/market/detail/1199?t=yunkan
+石台仙寓山景区,https://mzb-flow.ctseelink.cn/tykj/1829358472896409602.m3u8
+云南,#genre#
+云杉坪仰眺雪山,https://timeshift.liveplay.ybsjyyn.com/16847/67Tyz6MhghY8nNd0TNIpuuZfTVlIrQlCiQL8pS74UjGIATgvkoovqh7.fZn1TXVB/timeshift.m3u8?delay=900&txKbps=1024
+云杉坪草甸,https://timeshift.liveplay.ybsjyyn.com/16847/1xbNNXUFsRQxTfDaopjZlsNUYa3LwtP.JMgPXXlRf95PHzLciZz1gbUBUbnaaYfl/timeshift.m3u8?delay=900&txKbps=1024
+云杉坪草甸2,https://timeshift.liveplay.ybsjyyn.com/16847/46esevwK6C8DNeumhFE__sJck6PKs6JpByL8oKlzeah9HVwk0h76M7SzWA7yVBIl/timeshift.m3u8?delay=900&txKbps=1024
+狮子楼眺望沐府,https://timeshift.liveplay.ybsjyyn.com/16847/V8b0S9Px1HpjqXki0UnYij6q4CYhwXjOKbLWMCh47dYQjlqNQEluMU2JP2xg6I5I/timeshift.m3u8?delay=900&txKbps=1024
+万古楼全景,https://timeshift.liveplay.ybsjyyn.com/16847/SOwUSGMuwzNDWyIg7MOOJAIe2jC_1_sEGkEYjAlx_A5CmkX_1jq2OuYRM9gScROc/timeshift.m3u8?delay=900&txKbps=1024
+丽江古城万子桥,https://timeshift.liveplay.ybsjyyn.com/16847/XWFOyIMCD5Yc5.ylU4B1XckSICO5HH1.wRnESgj3LpOYOywE2zt28nyceq6d9ZRa/timeshift.m3u8?delay=900&txKbps=1024
+古道小桥流水人家,https://timeshift.liveplay.ybsjyyn.com/16847/JXRh2RrFJX_oKPHxHBspJyMkcjizu9vXfMZI7NBQ92J_gTLl9IzxUI2SZV9wax9./timeshift.m3u8?delay=900&txKbps=1024
+万古楼远眺玉龙雪山,https://timeshift.liveplay.ybsjyyn.com/16847/kkuSorFwhYRRJWVFBpOk3giIr1wecYczDm09kdG_HFFY2a2.ylqQyNQRu_iqJ7N9/timeshift.m3u8?delay=900&txKbps=1024
+丽江古城远眺玉龙雪山,https://timeshift.liveplay.ybsjyyn.com/16847/61IF9dMDbXbhPSAIT85H9oqlYHqfP7VECBTa4O_hRBvH2pLFrQm1necADKfMu0Cs/timeshift.m3u8?delay=900&txKbps=1024
+丽江沐府三清殿,https://timeshift.liveplay.ybsjyyn.com/16847/EWzQO5zBIfObRvYfrobECoh9dbb0Y0KUAQd2DhAuL.xquA7fi9_CE_PKezMwyb92/timeshift.m3u8?delay=900&txKbps=1024
+四方街科贡坊,https://timeshift.liveplay.ybsjyyn.com/16847/pdRnwuKJA340xt9KaKUUL2YenHk5pn.HcX7.iszVjQremhdoRCfDAjQVNYmokcm8/timeshift.m3u8?delay=900&txKbps=1024
+丽江古城大水车,https://timeshift.liveplay.ybsjyyn.com/16847/RIjA_9S81sJ1DsB2nYu9N7JUo3AnDJfE1ZMxFovbcETTf9I9krGPaM0p29t1_Coc/timeshift.m3u8?delay=900&txKbps=1024
+流水潺潺小桥畔,https://timeshift.liveplay.ybsjyyn.com/16847/yA6O0Od4HNN.X6w47_SJ3JW7o7_iO8e1gVSs4KDUO9mp_DDv8XLBT_ErSQNoEfz4/timeshift.m3u8?delay=900&txKbps=1024
+丽江古城沐府忠义牌坊,https://timeshift.liveplay.ybsjyyn.com/16847/a_JH_PIQ9wcrRj790vVBdFXDnZPX4Yw9IZyBi7Xv4WPApZhtlgfkLleghR399qL1/timeshift.m3u8?delay=900&txKbps=1024
+丽江古城绿树蓝天,https://timeshift.liveplay.ybsjyyn.com/16847/ljBXnmgtrHpLyyl_FceWqYYhMZpjlhGy3_l7wfORuv8Yk61e8lxarcsF.Szah0n7/timeshift.m3u8?delay=900&txKbps=1024
+丽江古城大石桥,https://timeshift.liveplay.ybsjyyn.com/16847/ihB5tBFWvOu77JzUBtoZL5XFOUj1Y9voDDsI5CPOQW2V2nQqQjtZPn988LOM5Osn/timeshift.m3u8?delay=900&txKbps=1024
+沐府万卷楼,https://timeshift.liveplay.ybsjyyn.com/16847/ZMpCZRICrp1zfjsxHvLj4RnOYYNPoyCWkNCJiffVIxwyRYPwPebQ3AHnOhWC3iNV/timeshift.m3u8?delay=900&txKbps=1024
+玉龙雪山蓝月谷玉液湖瀑布,https://timeshift.liveplay.ybsjyyn.com/16847/LJtuLVmqkjKRI2V_ddNHCOQRiYz_guFIupEd6nM4AfGnHv3RIUs1YQJrry6yRH6Y/timeshift.m3u8?delay=900&txKbps=1024
+玉龙雪山蓝月谷镜潭湖,https://timeshift.liveplay.ybsjyyn.com/16847/Fljqd7nM0HXUTfFTHwb1W6R_vbzEicSFcA0IrlMRV0FIEMTgbws.OrOLbokzYqCQ/timeshift.m3u8?delay=900&txKbps=1024
+甘海子景观石,https://timeshift.liveplay.ybsjyyn.com/16847/yWxJGi3U4BozZs4wDYkRIV4oDYYagj7qvJs67Hnhv0eTosZ16TWdRCnDL1jgoT2Q/timeshift.m3u8?delay=900&txKbps=1024
+甘海子雪山景观,https://timeshift.liveplay.ybsjyyn.com/16847/fdgWCu1P8WAydDLIACtJVOuPiAbmxZ5WyuFJmHbD0UedRdvyFjy2fSGPZTNDNq9i/timeshift.m3u8?delay=900&txKbps=1024
+丽江古城小桥流水,https://timeshift.liveplay.ybsjyyn.com/16847/tfdDUZcmiVDVWO63l_BJH8QiWEWEYhPFDgASjWJK3uDfqLW6g1gYwB7ppr9QMJN4/timeshift.m3u8?delay=900&txKbps=1024
+丽江古城青瓦淡墨,https://timeshift.liveplay.ybsjyyn.com/16847/g7XADlWYzd24IkSQ7m3wx6L_RmCNi4I0u2_vinv1NGjAyVAD4e3LRuC0w5Jvr91X/timeshift.m3u8?delay=900&txKbps=1024
+狮子山鸟瞰古城,https://timeshift.liveplay.ybsjyyn.com/16847/.i0ALAorSazHPtuReRCu7K0fSsWC8LeuXny2837_03b8yFnk781WMs86pnn9SPzt/timeshift.m3u8?delay=900&txKbps=1024
+俯瞰丽江古城,https://timeshift.liveplay.ybsjyyn.com/16847/oLF6HMNJ5nqvAKV.8EbIet6RBmF7.70ETQLKEFvJQx5Y.Z09aNx.s2LRcb.lWapb/timeshift.m3u8?delay=900&txKbps=1024
+丽江古城起山落脉,https://timeshift.liveplay.ybsjyyn.com/16847/EuWfOKlNyFWNM7dHYfPUGaLDPMNQAcTikU8YhDX8aU9UdLGwQ2wXHWvTen3XzROn/timeshift.m3u8?delay=900&txKbps=1024
+丽江古城天雨流芳,https://timeshift.liveplay.ybsjyyn.com/16847/X.aDRkeIJta3Pl_ZEbKCmO1cq3C2QeDzsv4gg6eB300IPX8H.wyo8aP_uT1kvON8/timeshift.m3u8?delay=900&txKbps=1024
+大研花巷观景台,https://timeshift.liveplay.ybsjyyn.com/16847/uK42TdcqPwO1E6W6hbcYx5TQ9Ou6Y4JGpesErEogtxTC8rPxMUharmAOWKNHhAwv/timeshift.m3u8?delay=900&txKbps=1024
+玉龙雪山,https://timeshift.liveplay.ybsjyyn.com/16847/R6Cel9kGy7Y9.MYjHeDnL7oXE_0o.2cHflbabAOVVLcRNzE1YQk.lTHHPL5EgYZz/timeshift.m3u8?delay=900&txKbps=1024
+
 
 
 
