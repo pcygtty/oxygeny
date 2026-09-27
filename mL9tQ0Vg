@@ -549,3 +549,17 @@ https://icecast-mirtv.cdnvideo.ru/radio_mir_256
 https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8
 #EXTINF:-1 group-title="其他" ,CBS 981
 https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8
+#EXTINF:-1 group-title="其他" ,bigradio-韩语流行
+https://antares.dribbcast.com/proxy/kpop?mp=/s
+#EXTINF:-1 group-title="其他" ,bigradio-日本流行
+https://antares.dribbcast.com/proxy/jpop?mp=/s
+#EXTINF:-1 group-title="其他" ,bigradio-中文流行
+https://antares.dribbcast.com/proxy/cpop?mp=/s
+#EXTINF:-1 group-title="其他" ,bigradio-亚洲流行
+https://antares.dribbcast.com/proxy/apop?mp=/s
+
+
+
+
+
+
