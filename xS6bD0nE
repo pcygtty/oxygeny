@@ -1,8 +1,10 @@
 Mongolia,#genre#
 Mongolian Music,https://a6.asurahosting.com:7700/radio.mp3
 MNB Radio,https://live.mnb.mn/hls/radio1.stream.m3u8
-ЭЛГЭН НУТАГ,https://a6.asurahosting.com:7210/radio.mp3
-Гэр бүлийн радио,https://c2.radioboss.fm/stream/394
+Elgen Nutag FM 96.9,https://a6.asurahosting.com:7210/radio.mp3
+Ger Buliin Radio FM 104.5,https://c2.radioboss.fm/stream/394
+MGL Radio,https://s17.ssl-stream.com/proxy/mglradio?mp=/stream
+National Radio FM 92.1,https://nationalradio.mn/live
 
 Russia,#genre#
 Радио Lux FM,https://icecast.luxfm.kz/luxfm
@@ -86,6 +88,42 @@ Kometa FM,https://online.kometa.fm/
 Nestandart,https://listen.radionestandart.ru/nestandart-320.mp3
 Ника FM Калуга 103.1 FM,https://radio.nikatv.ru/;.mp4
 Radio Ekspress,https://obl1.ru/radio-stream
+Радио Родных Дорог,https://stream1.radiord.ru:8000/live128.aac
+Radio Blago 102.3FM,https://live.radioblago.ru/live-1.ogg
+Rodniki 90.0FM,https://rodniki.hostingradio.ru/rodniki128.mp3
+Pilot Radio,https://stream.pilotradio.ru/pilotradio
+Komsomolskaya Pravda Yaroslavl Radio KP,https://kpradio.hostingradio.ru:8000/yaroslavl.radiokp64.mp3?radiostatistica=radio.garden/;
+Radio Dacha FM 103.3,https://stream2.n340.com/12_dacha_28_reg_13746
+Noise FM,https://play.sas-media.ru/play_256
+Radio Novo Talicy,https://live.ntal.ru/novotalici_128.ogg
+Vladimir Radio KP,https://kpradio.hostingradio.ru:8000/vladimir.radiokp128.mp3
+Rock Ataka,https://listen7.myradio24.com/rockataka
+Radio Sibir,https://stream.radiosibir.ru:8093/rsomskweb
+
+India,#genre#
+Radio Dhoom 89.6FM,https://servidor37.brlogic.com:7502/live
+TORI,https://stream.teluguoneradio.com:8164/;stream/1
+Telugu Christian Radio,https://centova71.instainternet.com/proxy/teluguchristainradio?mp=/stream
+Telugu Bible Radio,https://gains.reviveradio.net/proxy/teluguradio?mp=/stream
+Global FM 92.3,https://centova71.instainternet.com/proxy/globalfm?mp=/stream
+M.O.P. CRS 107.8 FM,https://streamasiacdn.atc-labs.com/mopfmchennai.aac
+Radio Beat,https://strw3.openstream.co/673
+Tamil Comedy Radio,https://relay2.southradios.net/listen/tamil_comedy_radio_autodj/stream
+Thiruneriya Tamilosai,https://radio.shaivam.org/listen/thiruneriya-thamizhosai/radio.mp3
+Vaanmalar FM,https://cast4.my-control-panel.com/proxy/vaanmalar2/stream
+Vadivelu Comedy Radio,https://relay2.southradios.net/listen/vadivelu_comedy_radio/stream
+Radio APJ,https://centova47.instainternet.com/proxy/radioapj/stream
+Sweety FM,https://centova71.instainternet.com/proxy/sweetyfm?mp=/stream2
+Arni City FM,https://usa9.fastcast4u.com/proxy/arnifm?mp=/1
+Divyavani Sanskrit Radio,https://divyavani.radioca.st/stream
+Deivigam Radio,https://dheivegam-unicast2u.radioca.st/stream
+
+Moldova,#genre#
+PRO Dj Radio,https://live.prodjradio.net/320
+Avto Radio 103.2 FM,https://streams.radiozum.md/listen/autoradio/autoradio
+Dance FM 101.3,https://stream.mmgmoldova.md:8443/dancefm
+
+
 
 
 
