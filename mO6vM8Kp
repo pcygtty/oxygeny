@@ -171,6 +171,16 @@
 营山县慢直播,https://yslive.ysxtv.cn/live1014/ch4.m3u8?auth_key=1760426141-0-0-9e813698ea91d197f60ef6893a5d19d4
 中国大熊猫保护研究中心,https://p2.vzan.com/slowlive/899413609132654533/live.m3u8
 四姑娘山,webview://https://www.sgnsgeopark.cn/live/live1.html
+四川峨眉山回望金顶,http://221.10.121.23:10800/flv/hls/stream_20.flv
+峨眉山金顶拜佛大道,http://221.10.121.23:10800/flv/hls/stream_17.flv
+峨眉山摩崖石刻,http://221.10.121.23:10800/flv/hls/stream_16.flv
+峨眉山清音瀑布,http://221.10.121.23:10800/flv/hls/stream_15.flv
+峨眉山金顶观景平台,http://221.10.121.23:10800/flv/hls/stream_7.flv
+峨眉山金顶金佛,http://221.10.121.23:10800/flv/hls/stream_2.flv
+峨眉山云海日出观赏点,http://221.10.121.23:10800/flv/hls/stream_3.flv
+峨眉山金顶观景游线,http://221.10.121.23:10800/flv/hls/stream_4.flv
+峨眉山清音牌坊,http://221.10.121.23:10800/flv/hls/stream_6.flv
+峨眉山滑雪场主滑道,http://221.10.121.23:10800/flv/hls/stream_25.flv
 内蒙古,#genre#
 阿尔山湖心岛北纬47度酒吧,https://play1-qk.nmtv.cn/nmtv/9413livestream.m3u8
 山西,#genre#
@@ -183,6 +193,11 @@
 第一现场·小梅沙海洋世界,https://livepull-tcyzb.sztv.com.cn/live/YSZ_SSCS.m3u8
 第一现场·山海之美W,webview://https://www.sztv.com.cn/h5/yishijie/#/oneview
 福建,#genre#
+太姥山,https://www.fdsqxj.com/tms/index.m3u8
+太姥山2,https://www.fdsqxj.com/tms/video1_stream.m3u8
+嵛山,https://www.fdsqxj.com/ys/index.m3u8
+嵛山2,https://www.fdsqxj.com/ys/video1_stream.m3u8
+太姥山W,webview://https://www.fdsqxj.com/#/
 福鼎桐江溪畔,webview://https://web.guangdianyun.tv/tv/2506?uin=3177
 福鼎太姥大道环岛,webview://https://web.guangdianyun.tv/tv/1616?uin=3177
 漳浦深土镇,webview://https://web.guangdianyun.tv/tv/3591?uin=3350
@@ -245,6 +260,8 @@
 池州石台仙寓山景区W,webview://https://mzb.ctseelink.cn/market/detail/1199?t=yunkan
 石台仙寓山景区,https://mzb-flow.ctseelink.cn/tykj/1829358472896409602.m3u8
 云南,#genre#
+梅里雪山,https://hwapi.yntv.cn/75m1g2/t0gb6p.m3u8
+梅里雪山W,webview://https://mtydazzle.yntv.cn/pages/liveDetails/detail.html/?companyId=6FAD846251BC47E1&_id=61963506e4b0c4bcf8d54633&isTest=no
 云杉坪仰眺雪山,https://timeshift.liveplay.ybsjyyn.com/16847/67Tyz6MhghY8nNd0TNIpuuZfTVlIrQlCiQL8pS74UjGIATgvkoovqh7.fZn1TXVB/timeshift.m3u8?delay=900&txKbps=1024
 云杉坪草甸,https://timeshift.liveplay.ybsjyyn.com/16847/1xbNNXUFsRQxTfDaopjZlsNUYa3LwtP.JMgPXXlRf95PHzLciZz1gbUBUbnaaYfl/timeshift.m3u8?delay=900&txKbps=1024
 云杉坪草甸2,https://timeshift.liveplay.ybsjyyn.com/16847/46esevwK6C8DNeumhFE__sJck6PKs6JpByL8oKlzeah9HVwk0h76M7SzWA7yVBIl/timeshift.m3u8?delay=900&txKbps=1024
@@ -274,6 +291,11 @@
 丽江古城天雨流芳,https://timeshift.liveplay.ybsjyyn.com/16847/X.aDRkeIJta3Pl_ZEbKCmO1cq3C2QeDzsv4gg6eB300IPX8H.wyo8aP_uT1kvON8/timeshift.m3u8?delay=900&txKbps=1024
 大研花巷观景台,https://timeshift.liveplay.ybsjyyn.com/16847/uK42TdcqPwO1E6W6hbcYx5TQ9Ou6Y4JGpesErEogtxTC8rPxMUharmAOWKNHhAwv/timeshift.m3u8?delay=900&txKbps=1024
 玉龙雪山,https://timeshift.liveplay.ybsjyyn.com/16847/R6Cel9kGy7Y9.MYjHeDnL7oXE_0o.2cHflbabAOVVLcRNzE1YQk.lTHHPL5EgYZz/timeshift.m3u8?delay=900&txKbps=1024
+广西,#genre#
+桂林龙脊梯田W,webview://https://www.miguvideo.com/p/live/WY900018299?cid=966485481&plt=sub&pwId=37dd0ded47c94de9b8c4cb052e3fa432&channelId=10010001005
+桂林阳朔兴坪W,webview://https://www.miguvideo.com/p/live/WY900018301?cid=966485576&plt=sub&pwId=37dd0ded47c94de9b8c4cb052e3fa432&channelId=10010001005
+桂林龙胜小南山W,webview://https://www.miguvideo.com/p/live/WY900018302?cid=966485583&plt=sub&pwId=37dd0ded47c94de9b8c4cb052e3fa432&channelId=10010001005
+桂林阳朔遇龙河W,webview://https://www.miguvideo.com/p/live/WY900018300?cid=966485566&plt=sub&pwId=37dd0ded47c94de9b8c4cb052e3fa432&channelId=10010001005
 
 
 
