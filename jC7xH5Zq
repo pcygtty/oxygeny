@@ -1,4 +1,77 @@
-Singapore,#genre#
-CNA Insider,https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+Yahoo,#genre#
+Yahoo! Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+High Vision,https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
+High Vision,https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.fmp4.m3u8
+
+Azerbaijan,#genre#
+Az Star TV,http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+
+Russia,#genre#
+Россия К,https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+Россия 24,https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+Россия 1,https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+РТР Планета,https://stream.smotrim.ru/hls2/planeta_rtr_usa/playlist_4.m3u8
+Первый Музыкальный Канал HD,http://rtmp.one.by:1300
+Первый Музыкальный Канал Россия HD,http://rtmp.one.by:2300
+RT,https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+RT DE,https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+RT Arabic,https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+RT Arabic,https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+RT Documentary2,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+RT en Español,https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+RT en Español 2,https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+RT France,https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+RT France 2,https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+Мир,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+Мир 24,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+Белгород 24,http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+Дагестан,https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+Univer TV,https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+Univer TV 2,https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+Звезда,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+Матур ТВ,https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+НТС (Севастополь),https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+ТКР (Рязань),http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+12 канал,https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+ХузурТВ(720p),https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+СТБ(720p),https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+
+France,#genre#
+ViàMatélé,https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+
+Netherland,#genre#
+RTV Drenthe,https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+RTV Rijnmond Extra,http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8
+Studio Rheden,https://stream.studiorhedenlive.nl/hlstv/stream.m3u8
+TV Ellef,http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8
+UStad,http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8
+
+USA,#genre#
+Newsy,https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+
+Spain,#genre#
+Diez TV Las Villas,https://streaming.cloud.innovasur.es/mmj2/index.m3u8
+Diez TV Úbeda,https://streaming.cloud.innovasur.es/mmj/index.m3u8
+
+Iraq,#genre#
+Dijlah TV,https://ghaasiflu.online/Dijlah/index.m3u8
+
+India,#genre#
+Pamir TV,http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+Sardari TV,http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
