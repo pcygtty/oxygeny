@@ -29,6 +29,7 @@
 如皋龙游河风景区,webview://https://web.guangdianyun.tv/tv/3844?uin=1545
 徐州云龙湖湖东路入口,webview://https://web.guangdianyun.tv/tv/3249?uin=1206
 云龙湖荷花池,webview://https://web.guangdianyun.tv/tv/3250?uin=1206
+新沂市体育中心,webview://https://web.guangdianyun.tv/tv/3670?uin=1812
 上海,#genre#
 上海澎湃慢直播W,webview://https://www.thepaper.cn/newsDetail_forward_31028110
 千里江山图切换视角,https://play-a2.quklive.com/live/1765245429980053.m3u8
@@ -190,6 +191,7 @@
 阿尔山湖心岛北纬47度酒吧,https://play1-qk.nmtv.cn/nmtv/9413livestream.m3u8
 山西,#genre#
 皇城相府,https://player4.juyun.tv/camera/107852129.m3u8
+榆林传媒中心新闻大厦,https://hplayer1.juyun.tv/camera/180400187.m3u8
 广东,#genre#
 大美信宜,webview://https://web.guangdianyun.tv/tv/3710?uin=1629
 珠海金湾,webview://https://web.guangdianyun.tv/tv/3819?uin=2756
@@ -214,6 +216,10 @@
 泉州永春县云看永春,webview://https://web.guangdianyun.tv/tv/2848?uin=2311
 永春县十里桃园,webview://https://web.guangdianyun.tv/tv/2429?uin=2311
 永春县五里古街,webview://https://web.guangdianyun.tv/tv/3477?uin=2311
+泉州安溪县政府路口,webview://https://web.guangdianyun.tv/tv/1934?uin=1717
+安溪县实验小学路口,webview://https://web.guangdianyun.tv/tv/1889?uin=1717
+安溪北石高速路口,webview://https://web.guangdianyun.tv/tv/1937?uin=1717
+三明市尤溪县紫阳公园,webview://https://web.guangdianyun.tv/tv/3107?uin=2055
 浙江,#genre#
 桐乡濮院古镇,webview://https://web.guangdianyun.tv/tv/3339?uin=1043
 京杭大运河桐乡段,webview://https://web.guangdianyun.tv/tv/3345?uin=1043
@@ -223,6 +229,8 @@
 桐乡乌镇白莲塔,webview://https://web.guangdianyun.tv/tv/3360?uin=1043
 桐乡凤凰湖,webview://https://web.guangdianyun.tv/tv/3346?uin=1043
 浙江丽水建源码头,webview://https://web.guangdianyun.tv/tv/3362?uin=4135
+桐庐迎春南路,webview://https://web.guangdianyun.tv/tv/3584?uin=1163
+温州乐清南虹广场,webview://https://web.guangdianyun.tv/tv/2737?uin=1356
 湖北,#genre#
 武汉后官湖湿地公园,webview://https://web.guangdianyun.tv/tv/2007?uin=3165
 黄石团城山人民广场,webview://https://web.guangdianyun.tv/tv/3175?uin=3065
@@ -246,6 +254,10 @@
 许昌莲花湾,webview://https://web.guangdianyun.tv/tv/3903?uin=3744
 春秋楼问安亭,webview://https://web.guangdianyun.tv/tv/3874?uin=3744
 春秋码头,webview://https://web.guangdianyun.tv/tv/3383?uin=3744
+许昌西站,webview://https://web.guangdianyun.tv/tv/3892?uin=3744
+许昌中立交,webview://https://web.guangdianyun.tv/tv/3907?uin=3744
+许昌云鼎广场,webview://https://web.guangdianyun.tv/tv/3405?uin=3744
+许昌春秋楼,webview://https://web.guangdianyun.tv/tv/3875?uin=3744
 河北,#genre#
 衡水武强音乐公园,webview://https://web.guangdianyun.tv/tv/3672?uin=1425
 湖南,#genre#
@@ -261,6 +273,11 @@
 崂山狮子峰,https://play.zhihuiwenlvyun.com/live/shizifeng2026.m3u8
 崂山潮音瀑,https://play.zhihuiwenlvyun.com/live/chaoyinpu2026.m3u8
 崂山灵旗峰,https://play.zhihuiwenlvyun.com/live/lingqifeng2026.m3u8
+青岛五四广场,https://video10.qtv.com.cn/aqdwsgc2022/manifest.m3u8
+青岛市南:胶宁高架银川西路、宁夏路下桥口,https://video10.qtv.com.cn/sxt2/manifest.m3u8
+青岛市南:胶宁高架福州路口南段,https://video10.qtv.com.cn/sxt3/manifest.m3u8
+青岛市南:快速路大润发、南京路方向,https://video10.qtv.com.cn/sxt1/manifest.m3u8
+青岛奥帆中心,https://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
 安徽,#genre#
 池州石台仙寓山景区W,webview://https://mzb.ctseelink.cn/market/detail/1199?t=yunkan
 石台仙寓山景区,https://mzb-flow.ctseelink.cn/tykj/1829358472896409602.m3u8
@@ -378,7 +395,20 @@
 桂林阳朔兴坪W,webview://https://www.miguvideo.com/p/live/WY900018301?cid=966485576&plt=sub&pwId=37dd0ded47c94de9b8c4cb052e3fa432&channelId=10010001005
 桂林龙胜小南山W,webview://https://www.miguvideo.com/p/live/WY900018302?cid=966485583&plt=sub&pwId=37dd0ded47c94de9b8c4cb052e3fa432&channelId=10010001005
 桂林阳朔遇龙河W,webview://https://www.miguvideo.com/p/live/WY900018300?cid=966485566&plt=sub&pwId=37dd0ded47c94de9b8c4cb052e3fa432&channelId=10010001005
-
-
+防城港西湾跨海大桥,webview://https://www.fcgtvb.com/cms/lives/9
+海南,#genre#
+视听海南,https://livecdn.hnntv.cn/live/hnntv_lkmzb.m3u8
+视听海南W,https://service-app.hnntv.cn/AppEngine/appinfo/STHaiNan/share.html?liveShowId=2283
+天津,#genre#
+天津滨海新区大连道实时路况,https://traffic.jbh.tjbh.com/live/dld.stream/playlist.m3u8
+天津滨海新区上海道与中心路交口实时路况,https://traffic.jbh.tjbh.com/live/shd.stream/playlist.m3u8
+天津滨海新区上海道与和平路交口实时路况,https://traffic.jbh.tjbh.com/live/shdwt.stream/playlist.m3u8
+天津滨海新区津塘公路高架桥实时路况,https://traffic.jbh.tjbh.com/live/jtgl.stream/playlist.m3u8
+天津滨海新区中央大道与新港三号路交口实时路况,https://traffic.jbh.tjbh.com/live/zydd.stream/playlist.m3u8
+天津滨海新区新港路实时路况,https://traffic.jbh.tjbh.com/live/xgl.stream/playlist.m3u8
+天津滨海新区中心路地道实时路况,https://traffic.jbh.tjbh.com/live/zxldd.stream/playlist.m3u8
+天津滨海新区新华路立交桥实时路况,https://traffic.jbh.tjbh.com/live/xhlljq.stream/playlist.m3u8
+天津滨海新区海河开启桥实时路况,https://traffic.jbh.tjbh.com/live/hhkqq.stream/playlist.m3u8
+天津滨海新区海门大桥实时路况,https://traffic.jbh.tjbh.com/live/hmdq.stream/playlist.m3u8
 
 
