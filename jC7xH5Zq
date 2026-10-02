@@ -62,6 +62,16 @@ India,#genre#
 Pamir TV,http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 Sardari TV,http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 Colors MENA HD (720p),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+Colors Kannada HD (1080i),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
+Colors Marathi HD (720p),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
+Colors MENA HD (720p),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+Colors Tamil HD (720p),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
+Epic Music Digital (1080p),https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+ETV Josh (1080p),https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+Grace Network (720p),https://livecdn.live247stream.com/grace/tv/playlist.m3u8
+Hum TV (720p),https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+JooMusic (720p),https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+JTBS Classic,https://jtbsclassic.dpdns.org/live.m3u8
 
 
 Chosun,#genre#
@@ -72,6 +82,9 @@ NHK World Premium (720p),https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3
 NHK World-Japan (1080p),https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 Music Air(JP),https://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls
 
+Germeny,#genre#
+DW Arabic (1080p),https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+DW English (1080p),https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
 
 
 
