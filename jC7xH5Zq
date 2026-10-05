@@ -81,10 +81,7 @@ QazSport (1080p),http://stream.mcquack.net/72/index.m3u8
 
 INDIA CHANNEL,#genre#
 Colors MENA HD (720p),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
-Colors Kannada HD (1080i),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
-Colors Marathi HD (720p),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
-Colors MENA HD (720p),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
-Colors Tamil HD (720p),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
+
 
 JAPAN CHANNEL,#genre#
 NHK World Premium (720p),https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
