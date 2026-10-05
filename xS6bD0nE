@@ -1,4 +1,4 @@
-Mongolia,#genre#
+MONGOLIA RADIOS,#genre#
 Mongolian Music,https://a6.asurahosting.com:7700/radio.mp3
 MNB Radio,https://live.mnb.mn/hls/radio1.stream.m3u8
 Elgen Nutag FM 96.9,https://a6.asurahosting.com:7210/radio.mp3
@@ -6,7 +6,7 @@ Ger Buliin Radio FM 104.5,https://c2.radioboss.fm/stream/394
 MGL Radio,https://s17.ssl-stream.com/proxy/mglradio?mp=/stream
 National Radio FM 92.1,https://nationalradio.mn/live
 
-Russia,#genre#
+RUSSIA RADIOS,#genre#
 Радио Lux FM,https://icecast.luxfm.kz/luxfm
 Радио Мир,https://icecast-mirtv.cdnvideo.ru/radio_mir_256
 Radio Sibir FM 103.7,https://ctv7.ru/radio/
@@ -103,7 +103,7 @@ Chistye klyuchi,https://listen6.myradio24.com/djmakc
 NStation 98.0 FM,https://icecast.nstation.ru:8443/nstation_192_mp3
 
 
-India,#genre#
+INDIA RADIOS,#genre#
 Radio Dhoom 89.6FM,https://servidor37.brlogic.com:7502/live
 TORI,https://stream.teluguoneradio.com:8164/;stream/1
 Telugu Christian Radio,https://centova71.instainternet.com/proxy/teluguchristainradio?mp=/stream
@@ -121,7 +121,7 @@ Arni City FM,https://usa9.fastcast4u.com/proxy/arnifm?mp=/1
 Divyavani Sanskrit Radio,https://divyavani.radioca.st/stream
 Deivigam Radio,https://dheivegam-unicast2u.radioca.st/stream
 
-Moldova,#genre#
+MOLDOVA RADIOS,#genre#
 PRO Dj Radio,https://live.prodjradio.net/320
 Avto Radio 103.2 FM,https://streams.radiozum.md/listen/autoradio/autoradio
 Dance FM 101.3,https://stream.mmgmoldova.md:8443/dancefm
@@ -159,7 +159,7 @@ Vocea Basarabiei,https://stream.noroc.tv/radiovb_aac
 Romano Patrin FM,https://mediaserv38.live-streams.nl:8074/stream
 City FM 103.9,https://live.cityfm.md:8001/cityfm
 
-Ukraine,#genre#
+UKRAINE RADIOS,#genre#
 Megapolis FM 105.2,https://cast.megapolis.fm/listen/kryvyi_rih/radio.mp3
 Радіо Кривбас 102.3 FM,https://onair.kryvbas.fm/RadioKryvbas
 X.ON,https://audio.x-on.com.ua:8443/x-on.mp3
@@ -211,7 +211,8 @@ Record FM 105.2,https://a13.asurahosting.com/listen/record_fm_105.2/radio.mp3
 Radio Mistonad Bugom FM 101.8,https://stream.mistonadbugom.com.ua/radiomistonadbugom
 Radio Provinciya,https://provinciya.stream.laut.fm/provinciya
 
-Turkey,#genre#
+
+TURKEY RADIOS,#genre#
 AGD Radyo,https://agdradyo.ozelip.com/8084/stream
 Ak Mega Radyo FM 88.5,https://yayin2.canliyayin.org:8048/stream
 Akdağ Oğuz FM 88,https://anadolu.liderhost.com.tr/8188/stream
@@ -364,16 +365,6 @@ Vuslat FM 101.1,https://anadolu.liderhost.com.tr/8168/stream
 Yozgat FM 96.7,https://sslyayin.netyayin.net:10921/stream/;
 Yunus Emre Enstitüsü Türkçenin Sesi Radyosu,https://radyo.yayin.com.tr:6509/;stream.mp3
 Yunus FM 94.0,https://yunusfm.kesintisizyayin.com:7350/stream
-
-
-
-
-
-
-
-
-
-
 
 
 
