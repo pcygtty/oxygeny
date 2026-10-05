@@ -1,4 +1,4 @@
-NEWS,#genre#
+NEWS CHANNEL,#genre#
 FOX WEATHER,https://247wlive.foxweather.com/stream/index.m3u8
 ACCU WEATHER,https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-accuweather-accuweather-plex/playlist.m3u8
 US-NBC NEWS NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
@@ -41,7 +41,7 @@ RU-RT France,https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 RU-RT France 2,https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 RU-RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-RU,#genre#
+RUSSIA CHANNEL,#genre#
 Россия К,https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 Россия 24,https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 Россия 1,https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
@@ -74,30 +74,30 @@ Univer TV 2,https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 ХузурТВ(720p),https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 СТБ(720p),https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
-KZ,#genre#
+KAZAKSTAN CHANNEL,#genre#
 Qazaqstan HD (1080p),http://stream.mcquack.net/71/index.m3u8
 Qazaqstan International,https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 QazSport (1080p),http://stream.mcquack.net/72/index.m3u8
 
-IN,#genre#
+INDIA CHANNEL,#genre#
 Colors MENA HD (720p),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 Colors Kannada HD (1080i),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
 Colors Marathi HD (720p),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
 Colors MENA HD (720p),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 Colors Tamil HD (720p),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
 
-JP,#genre#
+JAPAN CHANNEL,#genre#
 NHK World Premium (720p),https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 NHK World-Japan (1080p),https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
-NK,#genre#
+CHOSUN CHANNEL,#genre#
 Korean Central Television (1080p) ,https://live.koryocdn.org/kctv/index.m3u8
 
-GE,#genre#
+GERMANY CHANNEL,#genre#
 DW Arabic (1080p),https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 DW English (1080p),https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
 
-ID,#genre#
+IDONESIA CHANNEL,#genre#
 TVRI (1080i),https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 TVRI Aceh (720p),https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
 TVRI Central Java (720p),https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
@@ -117,7 +117,7 @@ TVRI West Sumatra (720p),https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sum
 TVRI Yogyakarta (720p),https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 TVRI World (1080p),https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-TR,#genre#
+TURKEY CHANNEL,#genre#
 TRT 1 (1440p),https://tv-trt1.medya.trt.com.tr/master.m3u8
 TRT Arabi (1080p),https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 TRT Avaz (720p),https://tv-trtavaz.medya.trt.com.tr/master.m3u8
@@ -131,7 +131,7 @@ TRT Kurdi (720p),https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 TRT Muzik (720p),https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 TRT Turk (720p),https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
-QA,#genre#
+QATAR CHANNEL,#genre#
 Al Jazeera 2 (1080p),https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
 Al Jazeera (1080p),https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
 Al Jazeera English (1080p),https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
@@ -139,12 +139,12 @@ Al Jazeera Mubasher 24 (1080p),https://live-hls-apps-ajm24-fa.getaj.net/AJM24/in
 Al Jazeera Mubasher (1080p),https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 Al Jazeera Mubasher Broadcast 2 (1080p),https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 
-SG,#genre#
+SINGAPORE CHANNEL,#genre#
 CNA Originals (1080p),https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 
-MUSIC,#genre#
+MUSIC CHANNEL,#genre#
 Metropoli Medios TV (720p),https://eu1.servers10.com:8081/8214/index.m3u8
 TRT Muzik (720p),https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 PTC Music,https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
@@ -157,7 +157,3 @@ TikTok Radio Brasil (1080p),https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u
 Stingray Naturescape (1080p),https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 Mi Radio TV,https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
 Kaloopy TV (1080p),https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
-
-
-
-
