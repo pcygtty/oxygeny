@@ -366,6 +366,143 @@ Yozgat FM 96.7,https://sslyayin.netyayin.net:10921/stream/;
 Yunus Emre Enstitüsü Türkçenin Sesi Radyosu,https://radyo.yayin.com.tr:6509/;stream.mp3
 Yunus FM 94.0,https://yunusfm.kesintisizyayin.com:7350/stream
 
+HONGKONG RADIOS,#genre#
+香港电台第一台,https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
+香港电台第二台,https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
+香港电台第三台,https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
+香港电台第四台,https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
+香港电台第五台,https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
+香港电台第六台,https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
+香港电台湾声台,https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8
+香港电台普通话台,https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
+香港新城电台财经台,https://1716664847.rsc.cdn77.org/1716664847/index.m3u8
+香港新城电台知讯台,https://1603884249.rsc.cdn77.org/1603884249/index.m3u8
+香港新城电台 Metro Plus,https://1946218710.rsc.cdn77.org/1946218710/index.m3u8
+Digital Radio香港数码台,http://ice.digitalradiohk.net:8000/drhk
+华语HITS,https://das-edge14-live365-dal02.cdnstream.com/a57743
+
+CHINESE LANGUAGE RADIOS,#genre#
+(US)纽约华语广播国语台WKDM AM1380,https://video1.getstreamhosting.com:8292/stream?.mp3
+(US)纽约华语广播粤语台WZRC AM1480,https://video1.getstreamhosting.com:8288/stream?.mp3
+(AU)AC878 FM澳洲华语电台,https://stream4.rcast.net/71937/#?.mp3
+欧洲华语广播电台,https://securestreams4.autopo.st:1558/wrpmusicmix-128.mp3
+(SG)UFM100.3 新加坡华语广播,https://27223.live.streamtheworld.com/UFM_1003.mp3
+(MY)Astro Radio GoXuan华语广播,https://n09-us.rcs.revma.com/xt9nhzsbv4uvv.mp3
+(MY)OOGA X Sdn Bhd CITYPlus FM,https://n10-us.rcs.revma.com/9ykdmcawe1bwv.mp3
+(MY)Sabah V FM,https://22273.live.streamtheworld.com/SABAH_VFMAAC.aac
+(MY)Ai FM,https://22243.live.streamtheworld.com/AI_FM.mp3
+(MY)Melody华语怀旧音乐广播,https://n09-us.rcs.revma.com/2u1n6dtbv4uvv.mp3
+(MY)988 FM,https://28103.live.streamtheworld.com/988_FM.mp3
+(SG)96.3好FM,https://28093.live.streamtheworld.com/HAO_963.mp3
+(MY)MY FM,https://n10-us.rcs.revma.com/hc3unrtbv4uvv.mp3
+(MY)Eight FM,https://n03-us.rcs.revma.com/qp0xrd9mtd3vv.mp3
+(MY)Red FM,https://22253.live.streamtheworld.com/RED_FMAAC.aac
+(MY)MONEY 89.3FM,https://22243.live.streamtheworld.com/MONEY_893.mp3
+(SG)Symphony 92.4 FM,https://22393.live.streamtheworld.com/MP3_SYMPHONY924.mp3
+(SG)Ria 89.7FM,https://28383.live.streamtheworld.com/MP3_RIA897FFM.mp3
+(SG)One FM91.3,https://27223.live.streamtheworld.com/ONE_FM_913.mp3
+(SG)88.3 Jia FM,https://22283.live.streamtheworld.com/883JIA.mp3
+(FR)RFI Chinois法国国际广播电台华语广播,https://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
+(HK)AXR Asia Expat Radio Hong Kong,https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_HONGKONGAAC.aac
+(CA)星岛A1中文电台,https://s1.voscast.com:10451/stream?.mp3
+(US)KAZN AM1300,https://video1.getstreamhosting.com:8308/stream?.mp3
+(US)星岛中文电台粤语台,https://nap.casthost.net/proxy/florenc1/stream.mp3
+(US)星岛中文电台国语台,https://nap.casthost.net/proxy/florence/stream.mp3
+(NZ)FM90.6新西兰中文广播,https://s26.myradiostream.com:20274/listen.mp3
+(CA)加拿大中文电台AM1430,https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8
+(CA)加拿大中文电台FM96.1,https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
+(CA)加拿大中文电台FM94.7,https://5b2959fe11444.streamlock.net/radio/fm947.stream/playlist.m3u8
+(CY)CCN塞浦路斯中文电台,https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio?.mp3
+(IN)全印广播电台中文广播,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio231/hlspbaudio231_Auto.m3u8
+
+
+LEBANON RADIOS,#genre#
+3j Radio,https://de1.streamingpulse.com/ssl/9085
+AlBal Radio,https://albal-lbnet2.radioca.st/stream
+LBI Al Tarabiya,https://lbizaman-lbnet2.radioca.st/stream
+LBI Radio,https://live.lbiradio.com:8000/1
+LBI Radio Hits,https://lbihits-lbnet2.radioca.st/stream
+LBI Radio Oldies,https://lbioldies-lbnet2.radioca.st/stream
+Libano Հայազգի Ձայն,https://c7.radioboss.fm:18299/stream
+Libano Հայազգի ձայն,https://c7.radioboss.fm:8299/stream
+Light FM,https://25703.live.streamtheworld.com/LIGHTFMAAC.aac
+Mix FM 104.4,https://22733.live.streamtheworld.com/MIXFM_LEBANONAAC_SC
+Nidaa Al Maarifa FM 91.1,https://nidaa.fm:8443/stream.mp3
+Pervoe Radio,https://s6.voscast.com:7753/stream
+Quran Radio 93.3 FM,https://audio.osina.cloud:7987/stream
+Radio Liban FM 98.1,https://media2.streambrothers.com:2020/stream/8194/;
+Radio Orient FM 88.3,https://audio-edge-fvq45.ams.d.radiomast.io/69a2563f-dc86-4b76-a823-a4c314b08bdf
+Sawt Al Chaab FM 103.7,https://audio.osina.cloud:9320/stream
+Sawt Al Farah FM 104.3,https://l3.itworkscdn.net/itwaudio/9036/stream
+Youth Voice Lebanon,https://cast5.asurahosting.com//proxy/jean/live
+Tripoli,https://cast3.my-control-panel.com/proxy/radiodel/stream
+Tripoli FMhttps://cast4.my-control-panel.com/proxy/tripolifm/stream
+Mixer FM,https://icecast.mixerfm.com:9118/mixerfm
+Radio Enooma,https://audio.osina.cloud:7777/stream
+Sawt Kel Lebnen FM 93.3,https://audio.osina.cloud:9323/stream
+Radio Voice of Van,https://vovan.s3ming.com/vovan.mp3
+Belight FM 104.1,https://cast4.my-control-panel.com/proxy/radiode1/stream
+Click FM 101.1,https://cast1.soundcast.ca:8443/clickfmlebanon
+Radio Kawkaba,https://cad.casthost.ca/proxy/antoine/stream
+
+SYRIA RADIOS,#genre#
+Asima-Online Radio,https://asima.out.airtime.pro/asima_a
+Farah FM 97.3,https://radio.farah.fm/?type=http
+Sham FM 92.3,https://radioshamfm.grtvstream.com:8400/stream
+Voice of Grace,https://securestreams5.reliastream.com:1820/;
+Rayan FM,https://a13.asurahosting.com/listen/r_fm/radio.mp3
+
+
+
+JORDAN RADIOS,#genre#
+Yarmouk University FM,https://yufm.yu.edu.jo/broadwave.mp3
+Ain FM 98.3,https://radio.ainfm.site/ainfm
+Beat FM 102.5,https://securestreams2.autopo.st:1242/live
+Bliss FM 104.3,https://bliss1-alrayamedia.radioca.st/;
+Drdchati Radio,https://radio.gorlk.net/drdchati
+Hayat FM 104.7,https://dc1.serverse.com/proxy/kjxwtpdt/stream
+Husna FM 93.4,https://s10.voscast.com:10441/stream
+Jeish FM 107.9,https://jeishfm-alrayamedia.radioca.st/;
+Jordanian Academy of Arabic Language Radio 102.9,https://eu9.fastcast4u.com/proxy/arabicla?mp=/1
+Mood FM,https://securestreams2.autopo.st:1241/live
+Nai FM 101.5,https://naifm.radioca.st/;
+Noon 103.1 FM,https://radionoon.radioca.st/;
+Play 99.5,https://play995.radioca.st//stream
+Radio Dahab,https://dahab.ice.infomaniak.ch/dahab-192.mp3
+وتر ف.م,https://securestreams2.autopo.st:1243/live
+
+
+OMAN RADIOS,#genre#
+Hala FM,https://listen-halafm.sharp-stream.com/halafmlow.mp3
+Hi FM 95.9,https://listen-hifmtemp.sharp-stream.com/hifmmid.mp3
+Oman Foreign Program FM 90.4,https://partrdo.mangomolo.com/engrdo.mp3
+Oman General FM 94.4,https://partrdo.mangomolo.com/omanrdo.mp3
+Shabab Radio Oman FM 100,https://partrdo.mangomolo.com/shababrdo.mp3
+Shabiba FM,https://stream.shabiba.fm:9010/shabiba
+So! Radio Oman 91.4 FM,https://listen-soradio.sharp-stream.com/soradio_high.mp3
+TFM,https://stream.timesofoman.fm:9018/tfm
+The Holy Quran Radio FM 93.2,https://partrdo.mangomolo.com/quranrdo.mp3
+Al Sumood FM95.1,https://us3.internet-radio.com/proxy/alsumoodfm2020?mp=/stream
+
+QATAR RADIOS,#genre#
+Fame FM Qatar,https://18303.live.streamtheworld.com/SAM03AAC389.aac
+Mazaji FM 94.6,https://stream3.rcast.net/73183
+Radio Olive 106.3,https://27823.live.streamtheworld.com/OLIVE1063.mp3
+Radio Suno 91.7,https://22353.live.streamtheworld.com/SUNO917.mp3
+Radio Suno Melody,https://14623.live.streamtheworld.com/RADIO_SUNO_MELODY_S06AAC.aac
+Radio Suno Tamil,https://17653.live.streamtheworld.com/RADIO_SUNO_TAMIL_S01AAC.aac
+Uthamiyae FM Radio,https://ssl.aloncast.com:1595/
+Alaraby TV 96.6FM,https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio
+
+
+
+
+
+
+
+
+
+
 
 
 
