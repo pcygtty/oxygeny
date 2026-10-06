@@ -3,6 +3,22 @@ M央视网,#genre#
 China Travel (1080p),https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 Discovering China (1080p),https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 CGTN Global Biz (1080p),https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
+CCTV,#genre#
+CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4(亚),http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 M安徽,#genre#
 池州新闻综合频道,https://wdcz.chiznews.com/tv-api/live/xwzh.flv
 固镇新闻频道,http://www.guzhenm.com:7001/hls/hd-live.m3u8
