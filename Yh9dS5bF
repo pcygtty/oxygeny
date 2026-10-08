@@ -1,1 +1,55 @@
-testt123
+{
+    "spider": "",
+    "lives": [{
+            "name": "zz",
+            "type": 0,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pcygtty/oxygeny/refs/heads/main/zS2uT8hU",
+                    "epg": "",
+            "logo": ""
+        }, {
+            "name": "gg",
+            "type": 0,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pcygtty/oxygeny/refs/heads/main/mL9tQ0Vg",
+                    "epg": "",
+            "logo": ""
+        }, {
+            "name": "mzzg",
+            "type": 0,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pcygtty/oxygeny/refs/heads/main/yT9jM8Ld",
+                    "epg": "",
+            "logo": ""
+        }, {
+            "name": "ozz",
+            "type": 0,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pcygtty/oxygeny/refs/heads/main/jC7xH5Zq",
+                    "epg": "",
+            "logo": ""
+        }, {
+            "name": "orr",
+            "type": 0,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pcygtty/oxygeny/refs/heads/main/xS6bD0nE",
+                    "epg": "",
+            "logo": ""
+        }, {
+            "name": "ior",
+            "type": 0,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pcygtty/oxygeny/refs/heads/main/oTr7Y2hM9Sb",
+                    "epg": "",
+            "logo": ""
+        }, {
+            "group": "redirect",
+            "channels": [{
+                    "name": "live",
+                    "urls": []
+                }
+            ],
+            "epg": ""
+        }
+    ],
+    "rules": [],
+    "sites": [],
+    "parses": [],
+    "flags": [],
+    "wallpaper": ""
+}
+
