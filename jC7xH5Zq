@@ -86,6 +86,8 @@ Univer TV 2,https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 12 канал,https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 ХузурТВ(720p),https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 СТБ(720p),https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+TASS,https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
+
 
 KAZAKSTAN CHANNEL,#genre#
 Qazaqstan HD (1080p),http://stream.mcquack.net/71/index.m3u8
